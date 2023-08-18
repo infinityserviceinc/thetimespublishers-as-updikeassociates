@@ -3,7 +3,7 @@
 <html lang="en-US">
 <head>
 	<meta charset="UTF-8" />
-	<title>Article Ghostwriting and Editing Services - Updike Associates</title>
+	<title>Article Ghostwriting and Editing Services - The Times Publishers</title>
 	<link rel="profile" href="http://gmpg.org/xfn/11" />
 	<link rel="pingback" href="xmlrpc.php/" />
 	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
@@ -818,7 +818,7 @@ Strategy</strong></span>
 													<div class="body-content testimonial-image bg-cover rounded lazy" data-bg="url(wp-content/uploads/2020/07/Jeff-Pegues-400x400.jpg)"></div>
 																										<div class="body-content testimonial-align">
 														<div class="body-content testimonial-text">
-															<p>“Updike Associates provided the guidance I needed in the publishing business. If you’re interested in becoming an author, Updike Associates can make your dream become a reality. It is a full-service firm that pays attention to the details.”</p>
+															<p>“The Times Publishers provided the guidance I needed in the publishing business. If you’re interested in becoming an author, The Times Publishers can make your dream become a reality. It is a full-service firm that pays attention to the details.”</p>
 														</div>
 																												<div class="body-content testimonial-meta">
 															<p><strong>Jeff Pegues, <em>CBS News</em></strong></p>
@@ -923,7 +923,7 @@ Strategy</strong></span>
 										
 																				<div class="body-content padding-content padding-bottom0 center">
 											<div class="in-middle">
-												<p class="title-def center">Why Should<br /> You Hire Updike Associates?</p>
+												<p class="title-def center">Why Should<br /> You Hire The Times Publishers?</p>
 																							</div>	
 										</div>
 										

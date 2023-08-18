@@ -3,7 +3,7 @@
 <html lang="en-US">
 <head>
 	<meta charset="UTF-8" />
-	<title>Query Letters - Updike Associates</title>
+	<title>Query Letters - The Times Publishers</title>
 	<link rel="profile" href="http://gmpg.org/xfn/11" />
 	
 	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
@@ -838,7 +838,7 @@ Navigation</strong></span>
 													
 																										<div class="body-content testimonial-align">
 														<div class="body-content testimonial-text">
-															<p>“Working with Updike Associates is a great experience. Having worked together on multiple books over the years, they’ve proven themselves to be reliable, responsive, and talented. Their team of bestselling authors is a great resource for us and I definitely recommend their services to any author or publisher looking for top-quality writing services with a well-managed process.”</p>
+															<p>“Working with The Times Publishers is a great experience. Having worked together on multiple books over the years, they’ve proven themselves to be reliable, responsive, and talented. Their team of bestselling authors is a great resource for us and I definitely recommend their services to any author or publisher looking for top-quality writing services with a well-managed process.”</p>
 														</div>
 																												<div class="body-content testimonial-meta">
 															<p><strong>Celeste Fine, Park &amp; Fine</strong></p>
@@ -861,7 +861,7 @@ Navigation</strong></span>
 										
 																				<div class="body-content padding-content padding-bottom0 center">
 											<div class="in-middle">
-												<p class="title-def center">Why Should<br /> You Hire Updike Associates?</p>
+												<p class="title-def center">Why Should<br /> You Hire The Times Publishers?</p>
 																								<div class="entry-content">
 													<hr />
 <h5 style="text-align: center;"></h5>

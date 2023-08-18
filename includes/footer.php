@@ -94,11 +94,11 @@
                                 <ul class="sub-menu">
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page level-2 menu-item-17932"
                                         style="margin-top: 30px;">
-                                        <a href="mailto: query@updikeassociates.com;">query@updikeassociates.com</a>
+                                        <a href="mailto:query@thetimespublishers.com;">query@thetimespublishers.com</a>
                                     </li>
                                     <li
                                         class="menu-item menu-item-type-post_type menu-item-object-page level-2 menu-item-17930">
-                                        <a href="tel:+12135273080"><span style="font-weight:600">Call Now</span> : +1
+                                        <a href="tel:+1(929)2245175"><span style="font-weight:600">Call Now</span> : +1
                                             213 527 3080</a>
                                     </li>
                                     <li
@@ -107,8 +107,7 @@
                                     </li>
                                     <li
                                         class="menu-item menu-item-type-post_type menu-item-object-page level-2 menu-item-17933">
-                                       <a href="https://goo.gl/maps/KTbJvthNR6MPD5D59" target="blank"><span style="font-weight:600">Address</span> : 4500 Great America Pkwy Ste
-                                        <br>100 #151 Santa Clara, CA 95054</a> 
+                                       <a href="https://goo.gl/maps/KTbJvthNR6MPD5D59" target="blank"><span style="font-weight:600">Address</span> : 101 E 58th St New York, NY 10022, USA</a> 
                                     </li>
 
                                 </ul>
@@ -178,11 +177,11 @@
                         <ul class="sub-menu">
 						<li class="menu-item menu-item-type-post_type menu-item-object-page level-2 menu-item-17932"
                                         style="margin-top: 30px;">
-                                        <a href="mailto: query@updikeassociates.com;"><span style="font-weight:600">Email</span> : query@updikeassociates.com</a>
+                                        <a href="mailto:query@thetimespublishers.com;"><span style="font-weight:600">Email</span> : query@thetimespublishers.com</a>
                                     </li>
                                     <li
                                         class="menu-item menu-item-type-post_type menu-item-object-page level-2 menu-item-17930">
-                                        <a href="tel:+12135273080"><span style="font-weight:600">Call Now</span> : +1
+                                        <a href="tel:+1(929)2245175"><span style="font-weight:600">Call Now</span> : +1
                                             213 527 3080</a>
                                     </li>
                                     <li
@@ -191,8 +190,7 @@
                                     </li>
                                     <li
                                         class="menu-item menu-item-type-post_type menu-item-object-page level-2 menu-item-17933">
-                                       <a href="https://goo.gl/maps/KTbJvthNR6MPD5D59" target="blank"><span style="font-weight:600">Address</span> : 4500 Great America Pkwy Ste
-                                        <br>100 #151 Santa Clara, CA 95054</a> 
+                                       <a href="https://goo.gl/maps/KTbJvthNR6MPD5D59" target="blank"><span style="font-weight:600">Address</span> : 101 E 58th St New York, NY 10022, USA</a> 
                                     </li>
                         </ul>
                     </li>
@@ -207,7 +205,7 @@
     <div class="body-content bottom bg-body color-white">
         <div class="wrapper">
             <div class="copyright">
-                <p>&copy; 2023 Updike Associates Inc.<br>
+                <p>&copy; 2023 The Times Publishers.<br>
                     All Rights Reserved</p>
             </div>
         </div>
@@ -369,7 +367,7 @@
                 </ul>
             </li>
             <li class="icon menu-item menu-item-type-custom menu-item-object-custom level-0 menu-item-29"><a
-                    href="mailto:query@updikeassociates.com">Email Us</a></li>
+                    href="mailto:query@thetimespublishers.com">Email Us</a></li>
             <li class="icon menu-item menu-item-type-custom menu-item-object-custom level-0 menu-item-30"><a
                     href="tel:1-844-997-4837">Call Us</a></li>
 
@@ -406,8 +404,8 @@
 <script src="js/minify-b68ea.js"></script>
 <script src="js/minify-6d54b.js"></script>
 <script src="js/minify-2a6b9.js"></script>
-<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=a2e418f5-e191-4235-bc34-efb8543af75c">
-</script>
+<!-- <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=a2e418f5-e191-4235-bc34-efb8543af75c">
+</script> -->
 <script>
 zE(function() {
     $zopim.livechat.setOnUnreadMsgs(function(numUnread) {

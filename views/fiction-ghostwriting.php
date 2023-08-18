@@ -835,7 +835,7 @@ Over 1 million copies sold!</p>
 																																																<div class="body-content testimonial third">
 													<div class="body-content testimonial-align">
 														<div class="body-content testimonial-text">
-															<p>“I really enjoy working with Updike Associates. They have a great team of writers and are very collaborative, responsive, and professional. Updike Associates’s team has been quick to provide a range of top-quality writers who they feel are ideal for the novels we want to have written. I am currently working with Kira Breed-Wrisley, a great writer and listener, and I have been so comfortable working with her.”</p>
+															<p>“I really enjoy working with The Times Publishers They have a great team of writers and are very collaborative, responsive, and professional. The Times Publishers’s team has been quick to provide a range of top-quality writers who they feel are ideal for the novels we want to have written. I am currently working with Kira Breed-Wrisley, a great writer and listener, and I have been so comfortable working with her.”</p>
 														</div>
 																												<div class="body-content testimonial-meta">
 																														
@@ -851,7 +851,7 @@ Over 1 million copies sold!</p>
 																																																<div class="body-content testimonial third">
 													<div class="body-content testimonial-align">
 														<div class="body-content testimonial-text">
-															<p>“Working with Updike Associates is a great experience. Having worked together on multiple books over the years, they’ve proven themselves to be reliable, responsive, and talented. Their team of bestselling authors is a great resource for us and I definitely recommend their services to any author or publisher looking for top-quality writing services with a well-managed process.”</p>
+															<p>“Working with The Times Publishers is a great experience. Having worked together on multiple books over the years, they’ve proven themselves to be reliable, responsive, and talented. Their team of bestselling authors is a great resource for us and I definitely recommend their services to any author or publisher looking for top-quality writing services with a well-managed process.”</p>
 														</div>
 																												<div class="body-content testimonial-meta">
 																														
@@ -880,7 +880,7 @@ Over 1 million copies sold!</p>
 										
 																				<div class="body-content padding-content padding-bottom0 center">
 											<div class="in-middle">
-												<p class="title-def center">Why Should<br /> You Hire Updike Associates?</p>
+												<p class="title-def center">Why Should<br /> You Hire The Times Publishers?</p>
 																							</div>	
 										</div>
 										
@@ -995,11 +995,11 @@ Over 1 million copies sold!</p>
 																								<div class="half-content two-columns-text relative with-bg bg-white">
 																										<div class="body-content padding-content">
 														<div class="entry-content relative">
-															<h2 class="white">The Process of Updike Associates Ghostwriting</h2>
+															<h2 class="white">The Process of The Times Publishers Ghostwriting</h2>
 <hr />
 <p class="white">Our method entails more than simply ghostwriting your book.</p>
 <p class="white">Your project will have its own team of professional writers, editors, and publishing strategists who collaborate to write a powerful novel and guide you through the entire publishing journey.</p>
-<p><a href="/ghostwriting-services/" class="button blue-light non-wal">See The Process of Updike Associates Ghostwriting</a></p>
+<p><a href="/ghostwriting-services/" class="button blue-light non-wal">See The Process of The Times Publishers Ghostwriting</a></p>
 
 														</div>
 													</div>	
@@ -1245,7 +1245,7 @@ Can’t get to us? <a href="contact-ghostwriting-services/"><strong>We can bring
 																				<div class="in-middle">
 																					<div class="entry-content">
 												<h2 style="text-align: center;">Is your book proposal the next big thing? Because it needs to be told!</h2>
-<p style="text-align: center;">The only way to find out... is at Updike Associates.</p>
+<p style="text-align: center;">The only way to find out... is at The Times Publishers</p>
 <p style="text-align: center;">Your story should be told because the worst one is which isn’t written at all.</p>
 <p style="text-align: center;"> Call us today to get started on your path to becoming a published author. Experience the best in quality, talent, and professionalism with our white-glove approach to book writing.</p>
 <div class="center as-p"><p><button type="button" class="" data-bs-toggle="modal" data-bs-target="#exampleModal"> <a href="javascript:;" class="button blue-light" ata-bs-toggle="modal" data-bs-target="#exampleModal" >  Book a Consult </button></a></p>

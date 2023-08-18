@@ -837,7 +837,7 @@ Navigation</strong></span>
 																																				<div class="body-content testimonial third">
 													<div class="body-content testimonial-align">
 														<div class="body-content testimonial-text">
-															<p>&#8220;I have worked with Updike Associates many times over the years for my memoir, book proposal, and articles. With each interaction, Updike Associates and their team provided excellent editorial services. our firm offers a diverse pool of editors to choose from, which enabled me to hone the type of service I was looking for. Each editor was concise and insightful, giving me constructive notes that really allowed me to take my work to the next level. I felt that they were in for the long haul because Updike Associates was always there for me when I had follow up questions. A great experience across the board.&#8221;</p>
+															<p>&#8220;I have worked with The Times Publishers many times over the years for my memoir, book proposal, and articles. With each interaction, The Times Publishers and their team provided excellent editorial services. our firm offers a diverse pool of editors to choose from, which enabled me to hone the type of service I was looking for. Each editor was concise and insightful, giving me constructive notes that really allowed me to take my work to the next level. I felt that they were in for the long haul because The Times Publishers was always there for me when I had follow up questions. A great experience across the board.&#8221;</p>
 														</div>
 																												<div class="body-content testimonial-meta">
 																														
@@ -869,7 +869,7 @@ Navigation</strong></span>
 																																																<div class="body-content testimonial third">
 													<div class="body-content testimonial-align">
 														<div class="body-content testimonial-text">
-															<p>&#8220;Thanks to the tireless support of Updike Associates, especially Eric Spitznagel, who helped us piece together this jigsaw puzzle of interviews. Your prose is as beautiful as your soul.&#8221;</p>
+															<p>&#8220;Thanks to the tireless support of The Times Publishers, especially Eric Spitznagel, who helped us piece together this jigsaw puzzle of interviews. Your prose is as beautiful as your soul.&#8221;</p>
 														</div>
 																												<div class="body-content testimonial-meta">
 																														
@@ -1039,7 +1039,7 @@ Navigation</strong></span>
 										
 																				<div class="body-content padding-content padding-bottom0 center">
 											<div class="in-middle">
-												<p class="title-def center">Why Should<br /> You Hire Updike Associates?</p>
+												<p class="title-def center">Why Should<br /> You Hire The Times Publishers?</p>
 																								<div class="entry-content">
 													<hr />
 <h5 style="text-align: center;"></h5>

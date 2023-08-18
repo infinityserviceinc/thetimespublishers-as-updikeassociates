@@ -52,13 +52,13 @@
 					<div id="ajax-load-more" class="ajax-load-more-wrap default"  data-alm-id="" data-canonical-url="/deals/" data-slug="deals" data-post-id="18819"  data-localized="ajax_load_more_vars"><div aria-live="polite" aria-atomic="true" class="alm-listing alm-ajax body-content body-content deals-posts" data-seo="true" data-seo-start-page="1" data-seo-scroll="false" data-seo-scrolltop="100" data-seo-controls="1" data-seo-permalink="pretty" data-seo-pageview="true" data-container-type="div" data-loading-style="default" data-theme-repeater="content-deal-news.php" data-post-type="post_deal_news" data-order="DESC" data-orderby="date" data-offset="0" data-posts-per-page="8" data-scroll="true" data-scroll-distance="0" data-max-pages="0" data-pause-override="false" data-pause="false" data-button-label="Load More" data-button-loading-label="Loading..."></div><noscript><div class="alm-listing alm-noscript body-content deals-posts"><div class="alm-reveal"><div class="body-content deals-post">
 			<span class="post-date">Apr 22, 2022</span>
 		<div class="post-content">
-			<p><strong>PUB DEAL</strong>: Jacky Fischer, CEO of <a href="https://www.3menmovers.com/">3 Men Movers</a>, sells her book, UNLOCKING THE GROWTH PARADOX, to Matthew Holt at Matt Holt Books [Agent: Updike at Updike Associates]</p>
+			<p><strong>PUB DEAL</strong>: Jacky Fischer, CEO of <a href="https://www.3menmovers.com/">3 Men Movers</a>, sells her book, UNLOCKING THE GROWTH PARADOX, to Matthew Holt at Matt Holt Books [Agent: Updike at The Times Publishers]</p>
 		</div>
 		
 </div><div class="body-content deals-post">
 			<span class="post-date">Mar 30, 2022</span>
 		<div class="post-content">
-			<p><strong>PUB DEAL: </strong>Dia Bondi, communications catalyst of top companies like <a href="https://www.salesforce.com/">Salesforce</a>, <a href="https://www.intel.com/content/www/us/en/homepage/">Intel</a>, <a href="https://www.mozilla.org/en-US/">Mozilla</a>, and <a href="https://twitter.com/home">Twitter</a>, sells her strategy-oriented guidebook, ASK LIKE AN AUCTIONEER, to Matthew Holt at Matt Holt Books [Agent: Updike at Updike Associates]</p>
+			<p><strong>PUB DEAL: </strong>Dia Bondi, communications catalyst of top companies like <a href="https://www.salesforce.com/">Salesforce</a>, <a href="https://www.intel.com/content/www/us/en/homepage/">Intel</a>, <a href="https://www.mozilla.org/en-US/">Mozilla</a>, and <a href="https://twitter.com/home">Twitter</a>, sells her strategy-oriented guidebook, ASK LIKE AN AUCTIONEER, to Matthew Holt at Matt Holt Books [Agent: Updike at The Times Publishers]</p>
 		</div>
 		
 </div><div class="body-content deals-post">
@@ -70,7 +70,7 @@
 </div><div class="body-content deals-post">
 			<span class="post-date">Mar 7, 2022</span>
 		<div class="post-content">
-			<p><strong>PUB DEAL: </strong>Ashley Brown, Founder and CEO of <a href="https://selflesslovefoundation.org/">Selfless Love Foundation</a>, sells her children&#8217;s book, CASSIE THE FOSTER-PILLAR, to Julie Ganz at Skyhorse Publishing. [Agent: Updike at Updike Associates]</p>
+			<p><strong>PUB DEAL: </strong>Ashley Brown, Founder and CEO of <a href="https://selflesslovefoundation.org/">Selfless Love Foundation</a>, sells her children&#8217;s book, CASSIE THE FOSTER-PILLAR, to Julie Ganz at Skyhorse Publishing. [Agent: Updike at The Times Publishers]</p>
 		</div>
 		
 </div><div class="body-content deals-post">

@@ -827,7 +827,7 @@ Navigation</strong></span>
 																																				<div class="body-content testimonial third">
 													<div class="body-content testimonial-align">
 														<div class="body-content testimonial-text">
-															<p>&#8220;I have worked with Updike Associates many times over the years for my memoir, book proposal, and articles. With each interaction, Updike Associates and their team provided excellent editorial services. our firm offers a diverse pool of editors to choose from, which enabled me to hone the type of service I was looking for. Each editor was concise and insightful, giving me constructive notes that really allowed me to take my work to the next level. I felt that they were in for the long haul because Updike Associates was always there for me when I had follow up questions. A great experience across the board.&#8221;</p>
+															<p>&#8220;I have worked with The Times Publishers many times over the years for my memoir, book proposal, and articles. With each interaction, The Times Publishers and their team provided excellent editorial services. our firm offers a diverse pool of editors to choose from, which enabled me to hone the type of service I was looking for. Each editor was concise and insightful, giving me constructive notes that really allowed me to take my work to the next level. I felt that they were in for the long haul because The Times Publishers was always there for me when I had follow up questions. A great experience across the board.&#8221;</p>
 														</div>
 																												<div class="body-content testimonial-meta">
 																														
@@ -843,7 +843,7 @@ Navigation</strong></span>
 																																																<div class="body-content testimonial third">
 													<div class="body-content testimonial-align">
 														<div class="body-content testimonial-text">
-															<p>“The team at Updike Associates has been incredibly helpful in guiding me through the book-writing and publishing process, as well as building a great book proposal. Within two weeks of working together, Updike Associates landed me one of the top agents in the industry! Thank you for all your editorial support and assistance through this journey—it means a lot to have such committed partners on such an important project to me.”</p>
+															<p>“The team at The Times Publishers has been incredibly helpful in guiding me through the book-writing and publishing process, as well as building a great book proposal. Within two weeks of working together, The Times Publishers landed me one of the top agents in the industry! Thank you for all your editorial support and assistance through this journey—it means a lot to have such committed partners on such an important project to me.”</p>
 														</div>
 																												<div class="body-content testimonial-meta">
 																														
@@ -859,7 +859,7 @@ Navigation</strong></span>
 																																																<div class="body-content testimonial third">
 													<div class="body-content testimonial-align">
 														<div class="body-content testimonial-text">
-															<p>“Pairing an author with the right ghostwriter is inherently fraught with built-in challenges, and these challenges cause risk for both the publisher and the author. Updike Associates reduces those risks by providing a layer of expertise and oversight on the entire process of selecting, coordinating, and managing the contract writing process. The end result is a better book because the right ghostwriter was chosen, the project was managed efficiently, and editorial quality was greatly increased. At <a target="_blank" href="https://www.harpercollinsleadership.com/" rel="noopener">HarperCollins Leadership</a> we look forward to working with Updike Associates and our extensive team of writers and editors on another successful project as soon as possible.”</p>
+															<p>“Pairing an author with the right ghostwriter is inherently fraught with built-in challenges, and these challenges cause risk for both the publisher and the author. The Times Publishers reduces those risks by providing a layer of expertise and oversight on the entire process of selecting, coordinating, and managing the contract writing process. The end result is a better book because the right ghostwriter was chosen, the project was managed efficiently, and editorial quality was greatly increased. At <a target="_blank" href="https://www.harpercollinsleadership.com/" rel="noopener">HarperCollins Leadership</a> we look forward to working with The Times Publishers and our extensive team of writers and editors on another successful project as soon as possible.”</p>
 														</div>
 																												<div class="body-content testimonial-meta">
 																														
@@ -888,7 +888,7 @@ Navigation</strong></span>
 										
 																				<div class="body-content padding-content padding-bottom0 center">
 											<div class="in-middle">
-												<p class="title-def center">Why Should<br /> You Hire Updike Associates?</p>
+												<p class="title-def center">Why Should<br /> You Hire The Times Publishers?</p>
 																							</div>	
 										</div>
 										
@@ -940,7 +940,7 @@ Navigation</strong></span>
 																																																				<div class="body-content benefits-row-item">
 														<p class="title">Proven Track Record of Success</p>
 																												<div class="text">
-															<p>Numerous award-winners and New York Times best-sellers have graced our shelves. Updike Associates is hired directly by major publishers and agents to assist their authors.</p>
+															<p>Numerous award-winners and New York Times best-sellers have graced our shelves. The Times Publishers is hired directly by major publishers and agents to assist their authors.</p>
 														</div>
 																											</div>
 																																						</div>
@@ -1005,11 +1005,11 @@ Navigation</strong></span>
 																								<div class="half-content two-columns-text relative with-bg bg-white">
 																										<div class="body-content padding-content">
 														<div class="entry-content relative">
-															<h2 class="white">The Process of Updike Associates Ghostwriting</h2>
+															<h2 class="white">The Process of The Times Publishers Ghostwriting</h2>
 <hr />
 <p class="white"><span style="font-weight: 400;">Our method entails more than simply ghostwriting your book.</span></p>
 <p class="white"><span style="font-weight: 400;">Your project will have its own team of professional writers, editors, and publishing strategists who will work together to write a powerful book and guide you through the publishing process.</span></p>
-<p ><a href="/ghostwriting-services/" class="button blue-light non-wal">See the Process of Updike Associates Ghostwriting</a></p>
+<p ><a href="/ghostwriting-services/" class="button blue-light non-wal">See the Process of The Times Publishers Ghostwriting</a></p>
 
 														</div>
 													</div>	
@@ -1155,7 +1155,7 @@ Can’t get to us? <a href="contact-ghostwriting-services/"><strong>We can bring
 																				<div class="in-middle">
 																					<div class="entry-content">
 												<h2 style="text-align: center;">Tell the World Your Story</h2>
-<p style="text-align: center;">Writing and publishing your memoir is the single most effective way to share your life's story with others. Updike Associates is dedicated to telling your story the way you always imagined it would be told. Our personalized ghostwriting method takes great care to deliver a finished product that exceeds your expectations and gets your book on the shelf.</p>
+<p style="text-align: center;">Writing and publishing your memoir is the single most effective way to share your life's story with others. The Times Publishers is dedicated to telling your story the way you always imagined it would be told. Our personalized ghostwriting method takes great care to deliver a finished product that exceeds your expectations and gets your book on the shelf.</p>
 <p style="text-align: center;">Each client phase starts with a complimentary, no-obligation consultation. Contact us today to begin your journey to becoming a published author.</p>
 <div class="center as-p"><p><button type="button" class="" data-bs-toggle="modal" data-bs-target="#exampleModal"> <a href="javascript:;" class="button blue-light" ata-bs-toggle="modal" data-bs-target="#exampleModal" >  Book a Consult </button></a></p>
 </div>

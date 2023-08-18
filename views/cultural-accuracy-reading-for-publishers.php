@@ -3,7 +3,7 @@
 <html lang="en-US">
 <head>
 	<meta charset="UTF-8" />
-	<title>Cultural Accuracy Reading for Publishers - Updike Associates</title>
+	<title>Cultural Accuracy Reading for Publishers - The Times Publishers</title>
 	<?php include_once("includes/head.php")?></head>
 <body class="page-template-default page page-id-19706">
 	
@@ -805,7 +805,7 @@
 														<div class="entry-content relative">
 															<h2>Who We Are</h2>
 <hr />
-<p>Updike Associates is an industry-leading book writing, editing, and publishing services firm headquartered in Manhattan with offices in Nashville and L.A.</p>
+<p>The Times Publishers is an industry-leading book writing, editing, and publishing services firm headquartered in Manhattan with offices in Nashville and L.A.</p>
 <p>Our team of former Big-5 acquisitions editors and <em>New York Times-</em>bestselling writers works closely with publishers and agents, providing a variety of reliable and well-managed editorial services.</p>
 														</div>
 													</div>	

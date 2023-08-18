@@ -837,7 +837,7 @@ Navigation</strong></span>
 																																				<div class="body-content testimonial third">
 													<div class="body-content testimonial-align">
 														<div class="body-content testimonial-text">
-															<p>“Working with Updike Associates is a great experience. Having worked together on multiple books over the years, they’ve proven themselves to be reliable, responsive, and talented. Their team of bestselling authors is a great resource for us and I definitely recommend their services to any author or publisher looking for top-quality writing services with a well-managed process.”</p>
+															<p>“Working with The Times Publishers is a great experience. Having worked together on multiple books over the years, they’ve proven themselves to be reliable, responsive, and talented. Their team of bestselling authors is a great resource for us and I definitely recommend their services to any author or publisher looking for top-quality writing services with a well-managed process.”</p>
 														</div>
 																												<div class="body-content testimonial-meta">
 																														
@@ -869,7 +869,7 @@ Navigation</strong></span>
 																																																<div class="body-content testimonial third">
 													<div class="body-content testimonial-align">
 														<div class="body-content testimonial-text">
-															<p>&#8220;Thanks to the tireless support of Updike Associates, especially Eric Spitznagel, who helped us piece together this jigsaw puzzle of interviews. Your prose is as beautiful as your soul.&#8221;</p>
+															<p>&#8220;Thanks to the tireless support of The Times Publishers, especially Eric Spitznagel, who helped us piece together this jigsaw puzzle of interviews. Your prose is as beautiful as your soul.&#8221;</p>
 														</div>
 																												<div class="body-content testimonial-meta">
 																														
@@ -944,7 +944,7 @@ Navigation</strong></span>
 																																																				<div class="body-content benefits-row-item">
 														<p class="title">Proven Track Record of Success</p>
 																												<div class="text">
-															<p>Numerous award-winners and New York Times best-sellers have graced our shelves. Updike Associates is hired directly by major publishers and agents to assist their authors.</p>
+															<p>Numerous award-winners and New York Times best-sellers have graced our shelves. The Times Publishers is hired directly by major publishers and agents to assist their authors.</p>
 														</div>
 																											</div>
 																																																				<!-- <div class="body-content benefits-row-item">
@@ -1111,7 +1111,7 @@ Navigation</strong></span>
 <hr />
 <p class="white">Our method entails more than simply ghostwriting your book.</p>
 <p class="white">Your project will have its own team of professional writers, editors, and publishing strategists who will work together to write a powerful book and guide you through the publishing process.</p>
-<p><a href="/ghostwriting-services/" class="button blue-light non-wal">See The Process of Updike Associates Ghostwriting</a></p>
+<p><a href="/ghostwriting-services/" class="button blue-light non-wal">See The Process of The Times Publishers Ghostwriting</a></p>
 
 														</div>
 													</div>	

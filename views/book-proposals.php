@@ -855,7 +855,7 @@ Reading</b></p>
 																																				<div class="body-content testimonial third">
 													<div class="body-content testimonial-align">
 														<div class="body-content testimonial-text">
-															<p>“Working with Updike Associates is a great experience. Having worked together on multiple books over the years, they’ve proven themselves to be reliable, responsive, and talented. Their team of bestselling authors is a great resource for us and I definitely recommend their services to any author or publisher looking for top-quality writing services with a well-managed process.”</p>
+															<p>“Working with The Times Publishers is a great experience. Having worked together on multiple books over the years, they’ve proven themselves to be reliable, responsive, and talented. Their team of bestselling authors is a great resource for us and I definitely recommend their services to any author or publisher looking for top-quality writing services with a well-managed process.”</p>
 														</div>
 																												<div class="body-content testimonial-meta">
 																														
@@ -871,7 +871,7 @@ Reading</b></p>
 																																																<div class="body-content testimonial third">
 													<div class="body-content testimonial-align">
 														<div class="body-content testimonial-text">
-															<p>“Working with Updike Associates and their team of bestselling ghostwriters has been a great experience all around. In addition to delivering excellent material in a timely manner, I especially appreciate their ability to adapt to demanding timelines and nonstandard processes. They are truly a classy organization that takes great pride in taking care of their clients. It’s rare to find such professionalism in a writing service. On one particularly demanding project, they really went above and beyond to produce an excellent manuscript within a two-month window—the way we and the organization handled the process was prompt, professional. They have also referred some great authors to us that we ended up signing deals with. I strongly recommend their service to any author, agent, or publisher.”</p>
+															<p>“Working with The Times Publishers and their team of bestselling ghostwriters has been a great experience all around. In addition to delivering excellent material in a timely manner, I especially appreciate their ability to adapt to demanding timelines and nonstandard processes. They are truly a classy organization that takes great pride in taking care of their clients. It’s rare to find such professionalism in a writing service. On one particularly demanding project, they really went above and beyond to produce an excellent manuscript within a two-month window—the way we and the organization handled the process was prompt, professional. They have also referred some great authors to us that we ended up signing deals with. I strongly recommend their service to any author, agent, or publisher.”</p>
 														</div>
 																												<div class="body-content testimonial-meta">
 																														
@@ -887,7 +887,7 @@ Reading</b></p>
 																																																<div class="body-content testimonial third">
 													<div class="body-content testimonial-align">
 														<div class="body-content testimonial-text">
-															<p>“KAA made my dream of becoming a published author a reality. When I first reached out to them, I knew nothing about the publishing business or how to write a book.  KAA’s industry knowledge and insider connections were incredibly valuable in ensuring I had the best team for long-term success. KAA’s team, and very often Updike Associates himself, were truly my partners and guided me through every step—planning the book, structuring the chapters, positioning the book to my target reader, ensuring the writing was publishable, connecting me directly with the top literary agents in the country, introducing me to the best PR agents and marketers, and finally helping me choose between multiple offers from Big-5 publishers&#8230;.They are the best in the business and really take care of you–I can’t recommend them highly enough.”</p>
+															<p>“KAA made my dream of becoming a published author a reality. When I first reached out to them, I knew nothing about the publishing business or how to write a book.  KAA’s industry knowledge and insider connections were incredibly valuable in ensuring I had the best team for long-term success. KAA’s team, and very often The Times Publishers himself, were truly my partners and guided me through every step—planning the book, structuring the chapters, positioning the book to my target reader, ensuring the writing was publishable, connecting me directly with the top literary agents in the country, introducing me to the best PR agents and marketers, and finally helping me choose between multiple offers from Big-5 publishers&#8230;.They are the best in the business and really take care of you–I can’t recommend them highly enough.”</p>
 														</div>
 																												<div class="body-content testimonial-meta">
 																														
@@ -1070,7 +1070,7 @@ Reading</b></p>
 																																							<div class="body-content benefits-row-item">
 														<p class="title">Proven Track Record of Success </p>
 																												<div class="text">
-															<p>Numerous award-winners and New York Times best-sellers have graced our shelves. Updike Associates is hired directly by major publishers and agents to assist their authors.</p>
+															<p>Numerous award-winners and New York Times best-sellers have graced our shelves. The Times Publishers is hired directly by major publishers and agents to assist their authors.</p>
 														</div>
 																											</div>
 																																																				<div class="body-content benefits-row-item">

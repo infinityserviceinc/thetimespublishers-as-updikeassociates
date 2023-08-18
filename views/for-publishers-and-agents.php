@@ -769,7 +769,7 @@ Services </strong></span>
 																																																<div class="body-content testimonial third">
 													<div class="body-content testimonial-align">
 														<div class="body-content testimonial-text">
-															<p>“Pairing an author with the right ghostwriter is inherently fraught with built-in challenges, and these challenges cause risk for both the publisher and the author. Updike Associates reduces those risks by providing a layer of expertise and oversight on the entire process of selecting, coordinating, and managing the contract writing process. The end result is a better book because the right ghostwriter was chosen, the project was managed efficiently, and editorial quality was greatly increased. At HarperCollins Leadership we look forward to working with Updike Associates and our extensive team of writers and editors on another successful project as soon as possible.”</p>
+															<p>“Pairing an author with the right ghostwriter is inherently fraught with built-in challenges, and these challenges cause risk for both the publisher and the author. The Times Publishers reduces those risks by providing a layer of expertise and oversight on the entire process of selecting, coordinating, and managing the contract writing process. The end result is a better book because the right ghostwriter was chosen, the project was managed efficiently, and editorial quality was greatly increased. At HarperCollins Leadership we look forward to working with The Times Publishers and our extensive team of writers and editors on another successful project as soon as possible.”</p>
 														</div>
 																												<div class="body-content testimonial-meta">
 																														
@@ -785,7 +785,7 @@ Services </strong></span>
 																																																<div class="body-content testimonial third">
 													<div class="body-content testimonial-align">
 														<div class="body-content testimonial-text">
-															<p>“I really enjoy working with Updike Associates. They have a great team of writers and are very collaborative, responsive, and professional. Updike Associates’s team has been quick to provide a range of top-quality writers who they feel are ideal for the novels we want to have written. I am currently working with Kira Breed-Wrisley, a great writer and listener, and I have been so comfortable working with her.”</p>
+															<p>“I really enjoy working with The Times Publishers They have a great team of writers and are very collaborative, responsive, and professional. The Times Publishers’s team has been quick to provide a range of top-quality writers who they feel are ideal for the novels we want to have written. I am currently working with Kira Breed-Wrisley, a great writer and listener, and I have been so comfortable working with her.”</p>
 														</div>
 																												<div class="body-content testimonial-meta">
 																														

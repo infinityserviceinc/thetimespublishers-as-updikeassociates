@@ -29,8 +29,8 @@
 							<h1>Elevate your book.<br />
 Get published.</h1>
 <p><em>Let&#8217;s talk about your book</em><br />
-Phone:<strong> <a href="tel:+12135273080">+1 (213) 5273080</a></strong><br />
-Email:<a href="mailto:query@updikeassociates.com"><strong> query@updikeassociates.com</strong></a></p>
+Phone:<strong> <a href="tel:+1(929)2245175">+1 (929) 2245175</a></strong><br />
+Email:<a href="mailto:query@thetimespublishers.com"><strong> query@thetimespublishers.com</strong></a></p>
 <p><em>&#8230;or fill out the contact form below</em></p>
 
 						</div>
@@ -52,7 +52,7 @@ Email:<a href="mailto:query@updikeassociates.com"><strong> query@updikeassociate
 								</div>
 																<div class="body-content body">
 									<div class="entry-content">
-										<p>4500 Great America Pkwy Ste 100 #151 Santa Clara, CA 95054</p>
+										<p>101 E 58th St New York, NY 10022, USA</p>
 									</div>
 								</div>
 															</div>
@@ -151,7 +151,7 @@ Email:<a href="mailto:query@updikeassociates.com"><strong> query@updikeassociate
 				<div class="in-middle">
 					<div class="entry-content">
 						<h2 style="text-align: center;"><strong>We provide everything you need to achieve your publishing goals.</strong></h2>
-<h5 style="text-align: center;">Let’s talk about how we can make your book a success. <a href="tel:+12135273080"><strong>Call us now</strong></a>.</h5>
+<h5 style="text-align: center;">Let’s talk about how we can make your book a success. <a href="tel:+1(929)2245175"><strong>Call us now</strong></a>.</h5>
 					</div>
 				</div>
 			</div>

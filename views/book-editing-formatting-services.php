@@ -524,7 +524,7 @@
                         <div class="body-content testimonial third">
                             <div class="body-content testimonial-align">
                                 <div class="body-content testimonial-text">
-                                    <p>&#8220;Updike Associates and their team provided excellent editorial services.
+                                    <p>&#8220;The Times Publishers and their team provided excellent editorial services.
                                         our firm offers a diverse pool of editors to choose from, which enabled me to
                                         hone the type of service I was looking for. Each editor was concise and
                                         insightful, giving me constructive notes that really allowed me to take my work
@@ -546,7 +546,7 @@
                         <div class="body-content testimonial third">
                             <div class="body-content testimonial-align">
                                 <div class="body-content testimonial-text">
-                                    <p>“Working with Updike Associates is a great experience. Having worked together on
+                                    <p>“Working with The Times Publishers is a great experience. Having worked together on
                                         multiple books over the years, they’ve proven themselves to be reliable,
                                         responsive, and talented. Their team of bestselling authors is a great resource
                                         for us and I definitely recommend their services to any author or publisher
@@ -567,7 +567,7 @@
                         <div class="body-content testimonial third">
                             <div class="body-content testimonial-align">
                                 <div class="body-content testimonial-text">
-                                    <p>“Thanks to the tireless support of Updike Associates, especially Eric Spitznagel,
+                                    <p>“Thanks to the tireless support of The Times Publishers, especially Eric Spitznagel,
                                         who helped us piece together this jigsaw puzzle of interviews. Your prose is as
                                         beautiful as your soul.”</p>
                                 </div>

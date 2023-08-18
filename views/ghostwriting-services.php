@@ -785,7 +785,7 @@ Navigation </strong></span>
 																																																<div class="body-content testimonial third">
 													<div class="body-content testimonial-align">
 														<div class="body-content testimonial-text">
-															<p>&#8220;Thanks to the tireless support of Updike Associates, especially Eric Spitznagel, who helped us piece together this jigsaw puzzle of interviews. Your prose is as beautiful as your soul.&#8221;</p>
+															<p>&#8220;Thanks to the tireless support of The Times Publishers, especially Eric Spitznagel, who helped us piece together this jigsaw puzzle of interviews. Your prose is as beautiful as your soul.&#8221;</p>
 														</div>
 																												<div class="body-content testimonial-meta">
 																														
@@ -1531,7 +1531,7 @@ The project team will ensure that the writing team works efficiently and effecti
 																																				<div class="body-content testimonial third">
 													<div class="body-content testimonial-align">
 														<div class="body-content testimonial-text">
-															<p>“Pairing an author with the right ghostwriter is inherently fraught with built-in challenges, and these challenges cause risk for both the publisher and the author. Updike Associates reduces those risks by providing a layer of expertise and oversight on the entire process of selecting, coordinating, and managing the contract-writing process. The end result is a better book because the right ghostwriter was chosen, the project was managed efficiently, and editorial quality was greatly increased.”</p>
+															<p>“Pairing an author with the right ghostwriter is inherently fraught with built-in challenges, and these challenges cause risk for both the publisher and the author. The Times Publishers reduces those risks by providing a layer of expertise and oversight on the entire process of selecting, coordinating, and managing the contract-writing process. The end result is a better book because the right ghostwriter was chosen, the project was managed efficiently, and editorial quality was greatly increased.”</p>
 														</div>
 																												<div class="body-content testimonial-meta">
 																														
@@ -1547,7 +1547,7 @@ The project team will ensure that the writing team works efficiently and effecti
 																																																<div class="body-content testimonial third">
 													<div class="body-content testimonial-align">
 														<div class="body-content testimonial-text">
-															<p>&#8220;Updike Associates made my dream of becoming a published author a reality. When I first reached out to them, I knew nothing about the publishing business or how to write a book. Now I have a well-written book that perfectly captures my message and voice, I’m represented by the #1 nonfiction agent in the country, I signed a six-figure book deal with HarperCollins, and hit the WSJ bestseller list!”</p>
+															<p>&#8220;The Times Publishers made my dream of becoming a published author a reality. When I first reached out to them, I knew nothing about the publishing business or how to write a book. Now I have a well-written book that perfectly captures my message and voice, I’m represented by the #1 nonfiction agent in the country, I signed a six-figure book deal with HarperCollins, and hit the WSJ bestseller list!”</p>
 														</div>
 																												<div class="body-content testimonial-meta">
 																														
@@ -1563,7 +1563,7 @@ The project team will ensure that the writing team works efficiently and effecti
 																																																<div class="body-content testimonial third">
 													<div class="body-content testimonial-align">
 														<div class="body-content testimonial-text">
-															<p>“Working with Updike Associates is a great experience. Having worked together on multiple books over the years, they’ve proven themselves to be reliable, responsive, and talented. Their team of bestselling authors is a great resource for us and I definitely recommend their services to any author or publisher looking for top-quality writing services with a well-managed process.”</p>
+															<p>“Working with The Times Publishers is a great experience. Having worked together on multiple books over the years, they’ve proven themselves to be reliable, responsive, and talented. Their team of bestselling authors is a great resource for us and I definitely recommend their services to any author or publisher looking for top-quality writing services with a well-managed process.”</p>
 														</div>
 																												<div class="body-content testimonial-meta">
 																														

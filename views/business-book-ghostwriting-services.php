@@ -906,7 +906,7 @@ Introductions">
 								<div class="body-content testimonial-text">
 									<p>“Pairing an author with the right ghostwriter is inherently fraught with built-in
 										challenges, and these challenges cause risk for both the publisher and the
-										author. Updike Associates reduces those risks by providing a layer of expertise
+										author. The Times Publishers reduces those risks by providing a layer of expertise
 										and oversight on the entire process of selecting, coordinating, and managing the
 										contract-writing process. The end result is a better book because the right
 										ghostwriter was chosen, the project was managed efficiently, and editorial
@@ -955,7 +955,7 @@ Introductions">
 						<div class="body-content testimonial third">
 							<div class="body-content testimonial-align">
 								<div class="body-content testimonial-text">
-									<p>“Working with Updike Associates has been a pleasure from start to finish—they
+									<p>“Working with The Times Publishers has been a pleasure from start to finish—they
 										even accommodated my request to meet with me in Japan. My lead editor, Mary, is
 										a truly talented editor and a joy to work with. I couldn’t have been happier
 										with our dynamic throughout the process. She brought a passion and an energy to
@@ -1126,7 +1126,7 @@ Introductions">
 										publishing strategists who will work together to write a powerful book and guide
 										you through the publishing process.</p>
 									<p><a href="/ghostwriting-services/" class="button blue-light none-wala">See The Process of
-											Updike Associates Ghostwriting</a></p>
+											The Times Publishers Ghostwriting</a></p>
 											<p><a href="/ghostwriting-services/" style="display:none;" class="button blue-light respp">See More</a></p>
 
 								</div>

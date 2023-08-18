@@ -839,7 +839,7 @@ bestseller</p>
 																																				<div class="body-content testimonial third">
 													<div class="body-content testimonial-align">
 														<div class="body-content testimonial-text">
-															<p>“Working with Updike Associates has been a pleasure from start to finish—they even accommodated my request to meet with me in Japan. My lead editor, Mary, is a truly talented editor and a joy to work with. I couldn’t have been happier with our dynamic throughout the process. She brought a passion and an energy to my project that is rare to find and immensely valuable. I recommend KAA and look forward to collaborating on more projects in the future.”</p>
+															<p>“Working with The Times Publishers has been a pleasure from start to finish—they even accommodated my request to meet with me in Japan. My lead editor, Mary, is a truly talented editor and a joy to work with. I couldn’t have been happier with our dynamic throughout the process. She brought a passion and an energy to my project that is rare to find and immensely valuable. I recommend KAA and look forward to collaborating on more projects in the future.”</p>
 														</div>
 																												<div class="body-content testimonial-meta">
 																														
@@ -855,7 +855,7 @@ bestseller</p>
 																																																<div class="body-content testimonial third">
 													<div class="body-content testimonial-align">
 														<div class="body-content testimonial-text">
-															<p>“LifeSuccess has had the pleasure of working with Updike Associates and their team since early 2008. I must say that we’ve been very impressed with their professionalism and excellent editing services. Several of our authors have gone out of their way to express how much they’ve appreciated their professional advice and helpful insights. They have also been readily available to us whenever we’ve needed them in a crunch. I cannot recommend them enough.”</p>
+															<p>“LifeSuccess has had the pleasure of working with The Times Publishers and their team since early 2008. I must say that we’ve been very impressed with their professionalism and excellent editing services. Several of our authors have gone out of their way to express how much they’ve appreciated their professional advice and helpful insights. They have also been readily available to us whenever we’ve needed them in a crunch. I cannot recommend them enough.”</p>
 														</div>
 																												<div class="body-content testimonial-meta">
 																														
@@ -871,7 +871,7 @@ bestseller</p>
 																																																<div class="body-content testimonial third">
 													<div class="body-content testimonial-align">
 														<div class="body-content testimonial-text">
-															<p>“Working with Updike Associates is a great experience. Having worked together on multiple books over the years, they’ve proven themselves to be reliable, responsive, and talented. Their team of bestselling authors is a great resource for us and I definitely recommend their services to any author or publisher looking for top-quality writing services with a well-managed process.”</p>
+															<p>“Working with The Times Publishers is a great experience. Having worked together on multiple books over the years, they’ve proven themselves to be reliable, responsive, and talented. Their team of bestselling authors is a great resource for us and I definitely recommend their services to any author or publisher looking for top-quality writing services with a well-managed process.”</p>
 														</div>
 																												<div class="body-content testimonial-meta">
 																														
@@ -1096,11 +1096,11 @@ bestseller</p>
 																								<div class="half-content two-columns-text relative with-bg bg-white">
 																										<div class="body-content padding-content">
 														<div class="entry-content relative">
-															<h2 class="white">The Process of Updike Associates Ghostwriting</h2>
+															<h2 class="white">The Process of The Times Publishers Ghostwriting</h2>
 <hr />
 <p class="white">Our method entails more than simply ghostwriting your book.</p>
 <p class="white">Your project will have its own team of professional writers, editors, and publishing strategists who will work together to write a powerful book and guide you through the publishing process.</p>
-<p><a href="/ghostwriting-services/" class="button blue-light non-wal">See The Process of Updike Associates Ghostwriting</a></p>
+<p><a href="/ghostwriting-services/" class="button blue-light non-wal">See The Process of The Times Publishers Ghostwriting</a></p>
 
 														</div>
 													</div>	

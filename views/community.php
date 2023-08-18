@@ -3,7 +3,7 @@
 <html lang="en-US">
 <head>
 	<meta charset="UTF-8" />
-	<title>Giving Back to the Community - Updike Associates</title>
+	<title>Giving Back to the Community - The Times Publishers</title>
 	<link rel="profile" href="http://gmpg.org/xfn/11" />
 	<link rel="pingback" href="/xmlrpc.php" />
 	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
@@ -197,7 +197,7 @@
 														<p><img loading="lazy" class="aligncenter wp-image-17448 size-full" title="BRStrategySession" src="/wp-content/uploads/2021/03/BRStratWriting.jpg" alt="BRStratWriting" width="960" height="540" srcset="/wp-content/uploads/2021/03/BRStratWriting.jpg" sizes="(max-width: 960px) 100vw, 960px" /></p>
 <h3>Bettirose and Make-A-Wish</h3>
 <p>We are thrilled to be collaborating with Make-A-Wish® Metro New York and cancer survivor Bettirose Epstein to help her write and publish her YA fantasy novel. Bettirose's real-life battle with cancer inspired the story, themes, characters, and magical setting of the book. In the next few months, we’ll be securing an agent and publisher for Bettirose, and helping her launch her book!</p>
-<p>Bettirose was medically eligible for a Wish after being diagnosed with leukaemia at the age of 13. Make-a-Wish approached Updike Associates in early 2019 to assist with the author's dream of becoming a published author. We, of course, said yes and have been overseeing the entire process at no cost to Bettirose or Make-a-Wish. Bettirose's dream of becoming a published author is about to come true, despite the challenges of her recovery, homework, friends, and now COVID19.</p>
+<p>Bettirose was medically eligible for a Wish after being diagnosed with leukaemia at the age of 13. Make-a-Wish approached The Times Publishers in early 2019 to assist with the author's dream of becoming a published author. We, of course, said yes and have been overseeing the entire process at no cost to Bettirose or Make-a-Wish. Bettirose's dream of becoming a published author is about to come true, despite the challenges of her recovery, homework, friends, and now COVID19.</p>
 <p>Bettirose has collaborated with bestselling ghostwriter Julia Watts, as well as our team of editors and publishing consultants. We'll be collaborating with industry-leading book marketers, PR agents, and literary agents to ensure Bettirose's book is a success, as well as nurturing her throughout the book-writing process.We are glad to help her through this.</p>
 <p>In the next few months, we’ll be securing an agent and publisher for Bettirose, and helping her launch her book!</p>
 													</div>
@@ -277,7 +277,7 @@
 																									<div class="entry-content">
 														<p><img loading="lazy" class="alignnone wp-image-17449 size-full" title="BRStrategySession" src="/wp-content/uploads/2021/03/EditingAPaper.jpg" alt="EditingAPaper" width="960" height="562" srcset="/wp-content/uploads/2021/03/EditingAPaper.jpg" sizes="(max-width: 960px) 100vw, 960px" /></p>
 <h3>Call for Manuscripts: Underrepresented Voices</h3>
-<p>Publishing, like most industries, has profited from and often exploited, marginalized groups in our society. Our industry has ignored, slighted, or otherwise silenced far too many dynamic voices. Updike Associates hopes to make a small contribution to redressing this injustice.</p>
+<p>Publishing, like most industries, has profited from and often exploited, marginalized groups in our society. Our industry has ignored, slighted, or otherwise silenced far too many dynamic voices. The Times Publishers hopes to make a small contribution to redressing this injustice.</p>
 <p>In that vein, we encourage and are currently accepting manuscript submissions from marginalized voices, particularly people of color. We accept both fiction and nonfiction manuscripts, but the subject of each project should address (directly or indirectly) issues of race, equality, social justice, representation, economic injustice, and other issues that promote equality.</p>
 <p>In this process, each submission will be reviewed by our team, and a winner will be chosen based on the work's artistic merit and potential for change.</p>
 <p>The winning manuscript will receive a full suite of services pro bono:<br />
@@ -444,7 +444,7 @@
 																									<div class="entry-content">
 														<p><img loading="lazy" class="alignnone wp-image-17453 size-full" title="HospitalEvent" src="/wp-content/uploads/2021/03/HospitalEvent.jpg" alt="HospitalEvent" width="960" height="777" srcset="/wp-content/uploads/2021/03/HospitalEvent.jpg" sizes="(max-width: 960px) 100vw, 960px" /></p>
 <h3>Kravis Children’s Hospital and Child Life and Creative Arts Therapy Department</h3>
-<p>Several members of Updike Associates' management team, as well as acclaimed children's author and UA ghostwriter Elizabeth Cody Kimmel, spent an afternoon at Mount Sinai's Kravis Children's Hospital. The event included book giveaways, readings, and signings as part of a collaboration with the Child Life and Creative Arts Therapy Department.</p>
+<p>Several members of The Times Publishers' management team, as well as acclaimed children's author and UA ghostwriter Elizabeth Cody Kimmel, spent an afternoon at Mount Sinai's Kravis Children's Hospital. The event included book giveaways, readings, and signings as part of a collaboration with the Child Life and Creative Arts Therapy Department.</p>
 													</div>
 													
 												</div>

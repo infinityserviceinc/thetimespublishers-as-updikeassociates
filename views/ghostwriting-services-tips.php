@@ -3,7 +3,7 @@
 <html lang="en-US">
 <head>
 	<meta charset="UTF-8" />
-	<title>Blog - Updike Associates</title>
+	<title>Blog - The Times Publishers</title>
 	<link rel="profile" href="http://gmpg.org/xfn/11" />
 	<link rel="pingback" href="/xmlrpc.php" />
 	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
@@ -70,7 +70,7 @@
 					<span class="post-date">Apr 12, 2022</span>
 					<strong class="post-title">How to Avoid Ghostwriting Scams</strong>
 					<span class="post-excerpt">How to Avoid Ghostwriting Scams
-Guest post by Marcia Layton Turner (Executive Director of the Association of Ghostwriters), in collaboration with Updike Associates
+Guest post by Marcia Layton Turner (Executive Director of the Association of Ghostwriters), in collaboration with The Times Publishers
 In recent years, a number of dubious websites promoting “bestselling ghostwriting” services have popped up.</span>
 					<span class="button blue-light">Read More</span>
 				</span>

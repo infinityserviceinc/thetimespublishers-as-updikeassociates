@@ -266,7 +266,7 @@
                     <div class="body-content testimonial third">
                         <div class="body-content testimonial-align">
                             <div class="body-content testimonial-text">
-                                <p>&ldquo;Collaborating with Updike Associates is a highly rewarding journey. With a
+                                <p>&ldquo;Collaborating with The Times Publishers is a highly rewarding journey. With a
                                     history of successful collaborations on various book projects, they consistently
                                     demonstrate their reliability, quick responsiveness, and impressive skills. Their
                                     team of accomplished authors is a valuable asset, making them a top choice for
@@ -289,7 +289,7 @@
                     <div class="body-content testimonial third">
                         <div class="body-content testimonial-align">
                             <div class="body-content testimonial-text">
-                                <p>&ldquo;Grateful for the unwavering assistance from Updike Associates, particularly
+                                <p>&ldquo;Grateful for the unwavering assistance from The Times Publishers, particularly
                                     Eric Spitznagel, who played a crucial role in assembling the intricate mosaic of
                                     interviews. Your eloquence mirrors the beauty within your spirit.
                                     &rdquo;</p>
@@ -583,7 +583,7 @@ Introductions">
 
                 <div class="body-content padding-content padding-bottom0 center">
                     <div class="in-middle">
-                        <p class="title-def center">Why Should<br>Updike Associates?</p>
+                        <p class="title-def center">Why Should<br>The Times Publishers?</p>
                     </div>
                 </div>
 
@@ -700,7 +700,7 @@ Introductions">
                         <p style="text-align: center;">Please Contact Us! We offer a free introductory consultation and are pleased to assess your existing material (no matter how bad it is) and advise you on your best next steps. 
                         </p>
                         <div class="center as-p">
-                            <p><button type="button" class="mob-btn"> <a href="tel: +12135273080"
+                            <p><button type="button" class="mob-btn"> <a href="tel: +1(929)2245175"
                                         class="button blue-light"> +1 213 527 3080 </button></a>
 
                                 <button type="button" class="" data-bs-toggle="modal" data-bs-target="#exampleModal"> <a

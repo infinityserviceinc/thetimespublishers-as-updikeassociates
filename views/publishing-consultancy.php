@@ -3,7 +3,7 @@
 <html lang="en-US">
 <head>
 	<meta charset="UTF-8" />
-	<title>Publishing Consultation - Updike Associates</title>
+	<title>Publishing Consultation - The Times Publishers</title>
 	<link rel="profile" href="http://gmpg.org/xfn/11" />
 	
 	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
@@ -817,7 +817,7 @@ Navigation</strong></span>
 																																				<div class="body-content testimonial third">
 													<div class="body-content testimonial-align">
 														<div class="body-content testimonial-text">
-															<p>“Updike Associates gives aspiring writers the tools they need–through ghostwriting, editing, and proofreading–to get their book ready for a literary agent or publisher.”</p>
+															<p>“The Times Publishers gives aspiring writers the tools they need–through ghostwriting, editing, and proofreading–to get their book ready for a literary agent or publisher.”</p>
 														</div>
 																												<div class="body-content testimonial-meta">
 																														
@@ -849,7 +849,7 @@ Navigation</strong></span>
 																																																<div class="body-content testimonial third">
 													<div class="body-content testimonial-align">
 														<div class="body-content testimonial-text">
-															<p>“Updike Associates made my dream of becoming a published author a reality. When I first reached out to them, I knew nothing about the publishing business or how to write a book. A year later, I have a well-written book that perfectly captures my message and voice, I’m represented by the #1 nonfiction agent in the country, and I’ve signed a six-figure book deal with HarperCollins. I have no doubt that their strategic planning, world-class ghostwriters (I highly recommend Mary!), and ongoing consultation and support are what led to me becoming a published author.&#8221;</p>
+															<p>“The Times Publishers made my dream of becoming a published author a reality. When I first reached out to them, I knew nothing about the publishing business or how to write a book. A year later, I have a well-written book that perfectly captures my message and voice, I’m represented by the #1 nonfiction agent in the country, and I’ve signed a six-figure book deal with HarperCollins. I have no doubt that their strategic planning, world-class ghostwriters (I highly recommend Mary!), and ongoing consultation and support are what led to me becoming a published author.&#8221;</p>
 														</div>
 																												<div class="body-content testimonial-meta">
 																														
@@ -878,7 +878,7 @@ Navigation</strong></span>
 										
 																				<div class="body-content padding-content padding-bottom0 center">
 											<div class="in-middle">
-												<p class="title-def center">Why Should<br /> You Hire Updike Associates?</p>
+												<p class="title-def center">Why Should<br /> You Hire The Times Publishers?</p>
 																							</div>	
 										</div>
 										

@@ -35,7 +35,7 @@
 										
 																					<div class="body-content entry-content">
 												<h1>Success Stories from Clients</h1>
-<p>See how Updike Associates has assisted first-time authors in developing their books, elevating their brands, and reaching bestseller lists.</p>
+<p>See how The Times Publishers has assisted first-time authors in developing their books, elevating their brands, and reaching bestseller lists.</p>
 <p><button type="button" class="" data-bs-toggle="modal" data-bs-target="#exampleModal"> <a href="javascript:;" class="button" ata-bs-toggle="modal" data-bs-target="#exampleModal" >  Book a Consult </button></a></p>
 
 											</div>

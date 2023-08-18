@@ -699,7 +699,7 @@ a.button.bordered.blue-light:hover, .button.bordered.blue-light a:hover, button.
 	-webkit-transition: all .3s ease; -moz-transition: all .3s ease; transition: all .3s ease;
 }
 
-.site-logo a {display: inline-block; vertical-align: middle; width: 166px; height: 97px; background: url(/images/logo-2.png) no-repeat 0 0 / 100% auto; font-size: 0;}
+.site-logo a {display: inline-block; vertical-align: middle; width: 166px; height: 70px; background: url(/images/logo-2.png) no-repeat 0 0 / 100% auto; font-size: 0;}
 
 .menus {text-align: right;}
 
