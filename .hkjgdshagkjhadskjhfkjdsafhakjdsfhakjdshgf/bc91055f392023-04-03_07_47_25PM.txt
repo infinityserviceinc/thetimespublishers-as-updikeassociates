@@ -1,0 +1,1 @@
+{"route":"\/lp-2\/","brand":"theappfounders","token":"4bec06cfac02e115ca4fc9242234e9d7cc88fbf8893a900082577086f3db94ae","tag":"banner-right-form","price":"null","news":"1","name":"sdfsdf","email":"sdfsdf@dkfjs.com","phone":"0000000000","brief":"sdfsaf"}
