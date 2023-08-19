@@ -28,7 +28,7 @@
 					
 					<div class="body-content padding-content padding-top0">
 						<div class="entry-content">
-							<h1 class="title-def center">The UA Story</h1>
+							<h1 class="title-def center">The Times Publishers</h1>
 							<hr />
 						</div>
 					</div>
@@ -36,17 +36,16 @@
 										<div class="body-content center">
 						<div class="in-middle">
 							<div class="entry-content">
-								<p><span style="font-weight: 400;">In a small, congested computer lab of Harvard University, The Times Publishers began in 2007 whereas a student, we were  studying literary theory and criticism.</span></p>
-<p><span style="font-weight: 400;">As a graduate student with a passion to pursue Ph.D. and aiming to become a professor in the future, we started freelancing. we started with tutoring and thesis-advisory service. Soon our services started to grow and it turned into a solo enterprise which started to grow soon there was a need for more employees so we started hiring our fellow Harvard graduate students and alumni.</span></p>
-<p><span style="font-weight: 400;">At that point, in 2008, a little distributing house come to out to The Times Publishers, searching for a more thorough and tried and true publication benefit than what they had been getting from consultants. This opportunity-driven The Times Publishers to grow the trade into the world of books, which saw a few early victories, counting Norman Ollestad’s 2009 Modern York Times-bestselling journal, Insane for the Storm. </span></i></a><span style="font-weight: 400;">. </span></p>
-<p><span style="font-weight: 400;">In 2014, The Times Publishers part the company into two partitioned substances. Thesis Editor, LLC, driven by CEO Dr. Allen Roda, held its all-PhD staff to center on altering, organizing, factual examination, and counseling for Ph.D. understudies and researchers. Updike & Partners, Inc., with The Times Publishers at the steerage, opened an office in Manhattan to center totally on altering and composing full-length exchange books. UA would afterward extend by opening workplaces in Nashville in late 2014 and Los Angeles in 2017, and the company plans to open a London office in 2022.</span></p>
-<p><span style="font-weight: 400;">Utilizing a group approach to assist creators create their books and explore the distributing industry, The Times Publishers’ mix of collaboration and comprehensive benefit has lifted the firm to a special position within the distributing industry.</span></p>
-<p><span style="font-weight: 400;">From 2019 to 2021, the firm included 11 in-house editors who were once eminent publication executives, senior official editors and senior acquisitions editors at the Big-5 distributers.</span></p>
-<p><span style="font-weight: 400;">UA’s group approach to the composing and publication handle has driven to the advancement of hundreds of national successes and propelled the  <a href="/clients/">careers of various effective creators</a>.</span></p>
-<p><span style="font-weight: 400;">Nowadays, UA works closely with scholarly operators, distributors, and creators on over 500 books yearly. The Times Publishers’s enthusiasm for information, basic consideration, and sharing authors’ messages is exceptionally much at the center of everything The Times Publishers does. In spite of the fact that the firm’s administrations are wide extending, they all serve the same reason: making extraordinary books and getting them to readers.</span></p>
-<p><span style="font-weight: 400;">Usually, what UA looks for to achieve through book arranging, book recommendations, altering, ghostwriting, book coaching, beta testing, affectability perusing, and comprehensive distributing industry route.</span></p>
-<p><span style="font-weight: 400;">You can learn more about The Times Publishers and our personal bio </span><a href=""><span style="font-weight: 400;">here</span></a><span style="font-weight: 400;">. </span></p>
-<p>&nbsp;</p>
+								<p><span style="font-weight: 400;">In 2007, amidst the bustling confines of Harvard University's compact computer lab, The Times Publishers was born. Its origins trace back to a student engrossed in the realms of literary theory and criticism.</span></p>
+								<p><span style="font-weight: 400;">A graduate student driven by a passion for academia and a future as a professor embarked on a freelancing journey, initially focused on tutoring and thesis advisory services. This endeavor quickly evolved into a thriving solo enterprise, prompting the hiring of fellow Harvard graduates. </span></p>
+								<p><span style="font-weight: 400;">In 2008, an opportunity arose when a small publishing house sought more comprehensive and reliable services, leading The Times Publishers to expand into the world of book publishing.</span></p>
+								<p><span style="font-weight: 400;">The company underwent a transformation in 2014, splitting into two distinct entities. Thesis Editor, LLC, under the leadership of CEO Dr. Allen faulkner, concentrated on providing specialized support for PhD students and researchers, focusing on editing, organization, factual analysis, and guidance. </span></p>
+								<p><span style="font-weight: 400;">Meanwhile, The Times Publishers, established offices in various cities, specializing in editing and crafting full-length trade books. This expansion continued, with offices opening in Nashville and Los Angeles, and plans for a London office in 2022.</span></p>
+								<p><span style="font-weight: 400;">Employing a collaborative approach to aid authors in book creation and navigating the publishing industry, The Times Publishers achieved a unique standing in the field. The firm's combination of teamwork and comprehensive services has resulted in numerous national successes and propelled the careers of many accomplished authors.</span></p>
+								<p><span style="font-weight: 400;">Over the years, The Times Publishers has partnered with literary agents, publishers, and writers to handle more than 500 books annually, driven by a commitment to knowledge, critical thinking, and effectively conveying authors' messages.</span></p>
+								<p><span style="font-weight: 400;">The company's diverse services, including book planning, recommendations, editing, ghostwriting, coaching, beta testing, sensitivity reading, and comprehensive publishing industry guidance, all contribute to a shared goal: the creation of exceptional books and their successful delivery to readers.</span></p>
+								<p><span style="font-weight: 400;">To learn more about The Times Publishers and their background, visit their personal bio page.</span><a href=""><span style="font-weight: 400;">here</span></a><span style="font-weight: 400;">. </span></p>
+								<p>&nbsp;</p>
 							</div>
 						</div>	
 					</div>

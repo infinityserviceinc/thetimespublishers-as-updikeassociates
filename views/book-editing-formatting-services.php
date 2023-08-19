@@ -20,28 +20,20 @@
     <div id="page-content" class="body-content overflow-hidden">
         <div id="page-inner" class="body-content">
 
-
-
-
-
-
-
-
-
-
-
-
             <div class="body-content bg-cover hero-row"
                 style="background-image: url(/wp-content/uploads/2020/07/ka-hero.jpg);">
                 <div class="wrapper">
 
                     <div class="body-content entry-content">
-                        <h1>THE BEST BOOK PROMOTION SERVICES FOR WRITERS </h1>
-                        <h3>Our book marketing service can assist you in efficiently reaching your target audience.
-                            Contact us to have your book acknowledged for its worth.</h3>
-                        <p><button type="button" class="" data-bs-toggle="modal" data-bs-target="#exampleModal"> <a
-                                    href="javascript:;" class=" button" ata-bs-toggle="modal"
-                                    data-bs-target="#exampleModal"> BOOK A FREE CONSULT</button></a></p>
+                        <h1>Effective Book Promotion Services Tailored for Authors.</h1>
+                        <h3>Elevate your book's recognition with our top-notch marketing solutions. Connect with us to ensure your valuable book receives the attention it deserves.</h3>
+                        <p>
+                            <button type="button" class="" data-bs-toggle="modal" data-bs-target="#exampleModal"> 
+                                <a href="javascript:;" class="button" ata-bs-toggle="modal" data-bs-target="#exampleModal">
+                                     BOOK A FREE CONSULT
+                                </button>
+                            </a>
+                        </p>
 
                     </div>
 
@@ -138,9 +130,7 @@
             </div>
 
 
-            <div class="body-content padding-content two-columns-text-image-row 
-											 padding-top0 padding-bottom0 
-																						">
+            <div class="body-content padding-content two-columns-text-image-row padding-top0 padding-bottom0">
                 <div class="wrapper">
 
                     <div class="body-content two-columns-text-image flex-row">
@@ -148,22 +138,14 @@
                         <div class="half-content two-columns-text relative">
                             <div class="body-content padding-content">
                                 <div class="entry-content relative">
-                                    <h2>Boost Book Sales With A Trusted Book Marketing Service.</h2>
-                                    <p><span style="font-weight: 400;">Are you struggling to sell your recently written
-                                            book? Reevaluate your book marketing approach with our team's assistance. We
-                                            specialize in using diverse tools and resources to effectively reach your
-                                            target audience. Let us help transform your book into a bestseller by
-                                            crafting engaging blogs, employing social media marketing, building an
-                                            author website, and designing an attractive book cover as part of our
-                                            comprehensive marketing strategy.</p>
-                                    <p>Contact us now and access exceptional book promotion services at competitive
-                                        prices.</p>
+                                    <h2>Elevate Your Book Sales Using a Reliable Book Marketing Service. </h2>
+                                    <p><span style="font-weight: 400;">
+                                        Facing challenges in selling your newly penned book? Rethink your book promotion strategy with our expert guidance. Our team excels in utilizing a variety of techniques and assets to reach your desired readers effectively. We can assist you in turning your book into a top-seller by creating captivating blog posts, harnessing the power of social media marketing, constructing an author-focused website, and crafting an appealing book cover – all integrated into a holistic marketing plan.
+                                    </p>
+                                    <p>Reach out today to tap into outstanding book promotion solutions offered at competitive rates.</p>
                                 </div>
                             </div>
                         </div>
-
-
-
 
                         <div class="half-content two-columns-image relative">
                             <div class="image full-width">
@@ -251,8 +233,7 @@
             </div>
 
 
-            <div class="body-content padding-content 
-											 padding-bottom0">
+            <div class="body-content padding-content padding-bottom0">
                 <div class="wrapper">
 
                     <div class="body-content padding-content padding-top0">
@@ -442,8 +423,7 @@
             </div>
 
 
-            <div class="body-content padding-content 
-											 padding-bottom0">
+            <div class="body-content padding-content padding-bottom0">
                 <div class="wrapper large">
 
                     <div class="body-content">

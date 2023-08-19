@@ -150,8 +150,9 @@ Email:<a href="mailto:query@thetimespublishers.com"><strong> query@thetimespubli
 			<div class="wrapper">
 				<div class="in-middle">
 					<div class="entry-content">
-						<h2 style="text-align: center;"><strong>We provide everything you need to achieve your publishing goals.</strong></h2>
-<h5 style="text-align: center;">Let’s talk about how we can make your book a success. <a href="tel:+1(929)2245175"><strong>Call us now</strong></a>.</h5>
+						<h2 style="text-align: center;"><strong>We offer comprehensive support to help you reach your publishing aspirations. </strong></h2>
+<h5 style="text-align: center;">Contact us today to discuss how we can ensure the success of your book. 
+Reach out now to begin your journey. <a href="tel:+1(929)2245175"><strong>Call us now</strong></a>.</h5>
 					</div>
 				</div>
 			</div>

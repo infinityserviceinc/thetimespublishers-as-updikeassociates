@@ -1216,7 +1216,7 @@ Over 1 million copies sold!</p>
 																				<div class="in-middle">
 																					<div class="entry-content">
 												<h2 style="text-align: center;">Now let us work some magic.</h2>
-<p style="text-align: center;">There are few things more satisfying in life than publishing a book that children enjoy. UA has firsthand experience and proven success in assisting clients in creating powerful and marketable children's books.</p>
+<p style="text-align: center;">There are few things more satisfying in life than publishing a book that children enjoy. The Times Publishers has firsthand experience and proven success in assisting clients in creating powerful and marketable children's books.</p>
 <p style="text-align: center;">If you've already written a draught or have an idea in your head, contact us to start the process of writing and publishing your book.</p>
 <div class="center as-p"><p><button type="button" class="" data-bs-toggle="modal" data-bs-target="#exampleModal"> <a href="javascript:;" class="button blue-light" ata-bs-toggle="modal" data-bs-target="#exampleModal" >  Book a Consult </button></a></p>
 </div>

@@ -116,7 +116,7 @@
 														<h5>We believe that every word has its own useful meaning and impact on one’s life and society in general. As a result, we believe in the power of the written word and have had the opportunity to witness it firsthand.</h5>
 <h5>The desire to share ideas is at the heart of our industry. The driving motivation for authors has always been the same, from ancient hands carving cuneiform on clay tablets to modern bloggers: the preservation and spread of treasured narratives, perspectives, and voices.</h5>
 <h5>Printing a book is, at its core, an act of giving—an attempt at human connection. Above all, publishing is about bringing people together. We take pride in being an active member of the global community of readers and writers, as well as in supporting literacy initiatives and other related causes that help foster positive relationships and improve the world.</h5>
-<h5>Here are a few of our current initiatives; however, we are always looking for new ways to give back to our community. Please contact us if you want to invite UA to join a cause that you care about.</h5>
+<h5>Here are a few of our current initiatives; however, we are always looking for new ways to give back to our community. Please contact us if you want to invite The Times Publishers to join a cause that you care about.</h5>
 <h2 style="text-align: center;">Current Initiatives</h2>
 <hr />
 													</div>
@@ -444,7 +444,7 @@
 																									<div class="entry-content">
 														<p><img loading="lazy" class="alignnone wp-image-17453 size-full" title="HospitalEvent" src="/wp-content/uploads/2021/03/HospitalEvent.jpg" alt="HospitalEvent" width="960" height="777" srcset="/wp-content/uploads/2021/03/HospitalEvent.jpg" sizes="(max-width: 960px) 100vw, 960px" /></p>
 <h3>Kravis Children’s Hospital and Child Life and Creative Arts Therapy Department</h3>
-<p>Several members of The Times Publishers' management team, as well as acclaimed children's author and UA ghostwriter Elizabeth Cody Kimmel, spent an afternoon at Mount Sinai's Kravis Children's Hospital. The event included book giveaways, readings, and signings as part of a collaboration with the Child Life and Creative Arts Therapy Department.</p>
+<p>Several members of The Times Publishers' management team, as well as acclaimed children's author and The Times Publishers ghostwriter Elizabeth Cody Kimmel, spent an afternoon at Mount Sinai's Kravis Children's Hospital. The event included book giveaways, readings, and signings as part of a collaboration with the Child Life and Creative Arts Therapy Department.</p>
 													</div>
 													
 												</div>

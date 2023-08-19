@@ -35,7 +35,7 @@
 										
 																					<div class="body-content entry-content">
 												<h1>Our Publications</h1>
-<p>UA's team edited, acquired, or developed a list of notable titles and New York Times best-sellers.</p>
+<p> team edited, acquired, or developed a list of notable titles and New York Times best-sellers.</p>
 											</div>
 												
 										

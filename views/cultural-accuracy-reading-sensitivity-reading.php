@@ -214,7 +214,7 @@ Sold</em></p>
 <hr />
 <p style="text-align: left;">Cultural Accuracy Reading (also known as Sensitivity, Authenticity, Diversity, or Targeted Expert Reading) entails scrutinizing a manuscript for issues of (mis)representation, biases, stereotypes, and a variety of other factors that may be harmful or antagonistic to a person or population group.</p>
 
-<p style="text-align: left;"><span style="font-size: 1.375rem;">This article by UA Senior Editor Hannah Gómez,  which appeared in Publishers Weekly's<em><a href="https://www.amazon.com/Publishers-Weekly-Book-Publishing-Almanac/dp/1510768815">Book Publishing Almanac 2022</a>explains more about cultural accuracy in reading.</em></span></p>
+<p style="text-align: left;"><span style="font-size: 1.375rem;">This article by The Times Publishers Senior Editor Hannah Gómez,  which appeared in Publishers Weekly's<em><a href="https://www.amazon.com/Publishers-Weekly-Book-Publishing-Almanac/dp/1510768815">Book Publishing Almanac 2022</a>explains more about cultural accuracy in reading.</em></span></p>
 														</div>
 													</div>	
 												</div>

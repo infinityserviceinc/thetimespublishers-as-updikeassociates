@@ -981,7 +981,7 @@ bestseller</p>
 										
 																				<div class="body-content padding-content padding-bottom0 center">
 											<div class="in-middle">
-												<p class="title-def center">Why Should<br /> You Hire Updike & Associates?</p>
+												<p class="title-def center">Why Should<br /> You Hire The Times Publishers?</p>
 																							</div>	
 										</div>
 										
@@ -1025,7 +1025,7 @@ bestseller</p>
 																																																				<div class="body-content benefits-row-item">
 														<p class="title">Proven Track Record of Success</p>
 																												<div class="text">
-															<p>Numerous award-winners and New York Times best-sellers have graced our shelves. UA is hired directly by major publishers and agents to assist their authors.</p>
+															<p>Numerous award-winners and New York Times best-sellers have graced our shelves. The Times Publishers is hired directly by major publishers and agents to assist their authors.</p>
 														</div>
 																											</div>
 																																																				<div class="body-content benefits-row-item">

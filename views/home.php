@@ -132,8 +132,7 @@
                 <div class="body-content center">
                     <div class="in-middle large entry-content">
                         <div class="content-column one_half">
-                            <h2>Are <span style="text-decoration: underline;"><strong>you</strong></span> ready to
-                                become a published author?</h2>
+                            <h2>Are <span style="text-decoration: underline;"><strong>you</strong></span> prepared to be a published author?</h2>
                         </div>
                         <div class="content-column one_half last_column">
                             <p><span style="color: #162f65;">We work alongside authors, combining the expertise of our
@@ -603,8 +602,7 @@ Introductions">
                             <div class="body-content benefits-row-item">
                                 <p class="title">Trust Former Publishing Executives </p>
                                 <div class="text">
-                                    <p>Our Senior and Executive Editors, hailing from major publishing houses, including the renowned Big-5, possess extensive experience as former acquisitions editors and editorial directors. They boast a track record of successfully creating and launching numerous #1 New York Times bestsellers.
-</p>
+                                    <p>Our Senior and Executive Editors, hailing from major publishing houses, including the renowned Big-5, possess extensive experience as former acquisitions editors and editorial directors. They boast a track record of successfully creating and launching numerous #1 New York Times bestsellers.</p>
                                 </div>
                             </div>
                             <div class="body-content benefits-row-item">
@@ -652,8 +650,8 @@ Introductions">
                         <div class="entry-content">
                             <h4 style="text-align: center;">Wanting To Get Your Writing Queries Answered?
                             </h4>
-                            <p style="text-align: center;">Use the power of beta reader evaluations to your advantage, learn what vetted writers have to say about your unfinished manuscripts, and get started writing with Up Dike Associates.
-
+                            <p style="text-align: center;">
+                                Use the power of beta reader evaluations to your advantage, learn what vetted writers have to say about your unfinished manuscripts, and get started writing with The Times Publishers
                             </p>
                         </div>
                     </div>

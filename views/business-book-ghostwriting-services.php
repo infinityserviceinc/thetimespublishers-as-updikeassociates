@@ -1119,7 +1119,7 @@ Introductions">
 						<div class="half-content two-columns-text relative with-bg bg-white">
 							<div class="body-content padding-content">
 								<div class="entry-content relative">
-									<h2 class="white">The Process of UA Ghostwriting</h2>
+									<h2 class="white">The Process of The Times Publishers Ghostwriting</h2>
 									<hr />
 									<p class="white">Our method entails more than simply ghostwriting your book.</p>
 									<p class="white">Your project will have its own team of professional writers, editors, and
