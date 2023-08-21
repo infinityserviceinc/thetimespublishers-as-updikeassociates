@@ -255,8 +255,8 @@
                                 <div class="body-content testimonial-name-tagline">
                                     <div class="valign">
                                         <p><strong>Antonio H. Westendorf</strong></p>
-                                        <p>#1 <em>New York Times-</em>bestselling
-                                            author, Over 1 million copies sold!</p>
+                                        <!-- <p>#1 <em>New York Times-</em>bestselling
+                                            author, Over 1 million copies sold!</p> -->
                                     </div>
                                 </div>
                             </div>
@@ -279,7 +279,7 @@
                                 <div class="body-content testimonial-name-tagline">
                                     <div class="valign">
                                         <p><strong>Joyce Fulton</strong></p>
-                                        <p>#1-ranked agent on Publishers Marketplace</p>
+                                        <!-- <p>#1-ranked agent on Publishers Marketplace</p> -->
                                     </div>
                                 </div>
                             </div>
@@ -299,11 +299,11 @@
                                 <div class="body-content testimonial-name-tagline">
                                     <div class="valign">
                                         <p><strong>Raymond Brown</strong></p>
-                                        <p>Actor on NBC&rsquo;s <em>The Office</em> and author of <i>New York Times</i>
+                                        <!-- <p>Actor on NBC&rsquo;s <em>The Office</em> and author of <i>New York Times</i>
                                             bestseller
-                                        </p>
-                                        <p>&nbsp;</p>
-                                        <p>&nbsp;</p>
+                                        </p> -->
+                                        <!-- <p>&nbsp;</p>
+                                        <p>&nbsp;</p> -->
                                     </div>
                                 </div>
                             </div>
