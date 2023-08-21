@@ -3281,4 +3281,37 @@ button.btn-close {
     opacity: 1;
     border-radius: 9%;
     width: 40px;
-    height: 30px;}
+    height: 30px;
+}
+
+.para {
+    font-size: 15px;
+    line-height: 26px;
+    color: #6e6e6e!important;
+}
+
+.section2{
+	padding: 170px 0;
+    position: relative;
+}
+
+.section2 .container{
+	max-width: 1120px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.footer_policy_link{
+	position: relative;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    /* color: #fff; */
+	margin: 20px 0 10px;
+}
+
+.footer_policy_link a{
+	color: #fff;
+}
