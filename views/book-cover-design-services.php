@@ -3,16 +3,16 @@
 
 <head>
 	<meta charset="UTF-8" />
-	<title>Publishing Consultation - The Times Publishers</title>
+	<title>#1 NYT-Bestselling Book Services | Trusted by Agents &amp; Big-5 Pubs</title>
 	<link rel="profile" href="http://gmpg.org/xfn/11" />
-
+	<link rel="pingback" href="xmlrpc.php/" />
 	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<?php include_once("includes/head.php")?>
 </head>
 
-<body class="page-template-default page page-id-588 page-child parent-pageid-348">
+<body class="page-template-default page page-id-548">
 
 	<?php include_once("includes/header.php")?>
 
@@ -21,17 +21,18 @@
 		<div id="page-inner" class="body-content">
 
 			<div class="body-content bg-cover hero-row"
-				style="background-image: url(/wp-content/uploads/2020/08/green-chameleon-s-9-cc-2-s-ky-sjm-unsplash@2x-1-2400x1488.jpg);">
+				style="background-image: url(/wp-content/uploads/2020/07/green-chameleon-s-9-cc-2-s-ky-sjm-unsplash@2x-2-2400x1488.jpg);">
 				<div class="wrapper">
 
 					<div class="body-content entry-content">
-						<h1>Professional Editing and Ghostwriting Services Tailored for Children's Books.</h1>
-						<h3>Team up with acclaimed authors who have reached #1 on the New York Times bestseller list and experienced Big-5 editors to craft heartwarming and inspiring children's books.</h3>
-						<h3>
-							<p><button type="button" class="" data-bs-toggle="modal" data-bs-target="#exampleModal"> <a
-										href="javascript:;" class=" button" ata-bs-toggle="modal"
-										data-bs-target="#exampleModal"> BOOK A FREE CONSULT</button></a></p>
-						</h3>
+						<h1>THE CUSTOM BOOK COVER DESIGN SERVICES OF THE TIMES PUBLISHERS WILL HELP YOU ELEVATE YOUR BOOK.</h1>
+						<h4>
+							We can help you make your story stand out! With our advertisement, you may reach your target audience with an eye-catching bock cover design! 
+						</h4>
+						<p><button type="button" class="" data-bs-toggle="modal" data-bs-target="#exampleModal"> <a
+									href="javascript:;" class=" button" ata-bs-toggle="modal"
+									data-bs-target="#exampleModal"> BOOK A FREE CONSULT</button></a></p>
+
 					</div>
 
 
@@ -41,36 +42,36 @@
 
 					<ul class="body-content partners-logos">
 						<li>
-
-							<img src="/wp-content/uploads/2020/07/harpercollins-logo@2x-400x43.png"
-								alt="Harper Collins Publishers" />
-
-							</a>
-						</li>
-						<li>
-
-							<img src="/wp-content/uploads/2020/07/penguin-random-house-logo@2x.png"
-								alt="Penguin Random House" />
+							<a href="https://www.harpercollins.com/" target="blank" rel="noopener">
+								<img src="/wp-content/uploads/2020/07/harpercollins-logo@2x-400x43.png"
+									alt="Harper Collins Publishers" />
 
 							</a>
 						</li>
 						<li>
-
-							<img src="/wp-content/uploads/2020/07/1024-px-hachette-books-logo-svg@2x.png"
-								alt="Hachette Book Group" />
-
-							</a>
-						</li>
-						<li>
-
-							<img src="/wp-content/uploads/2020/07/ss-logo-2018@2x.png" alt="Simon &amp; Schuster" />
+							<a href="https://www.penguinrandomhouse.com/" target="blank" rel="noopener">
+								<img src="/wp-content/uploads/2020/07/penguin-random-house-logo@2x.png"
+									alt="Penguin Random House" />
 
 							</a>
 						</li>
 						<li>
+							<a href="https://www.hachettebookgroup.com/" target="blank" rel="noopener">
+								<img src="/wp-content/uploads/2020/07/1024-px-hachette-books-logo-svg@2x.png"
+									alt="Hachette Book Group" />
 
-							<img src="/wp-content/uploads/2020/07/macmillan-logotype@2x-400x67.png"
-								alt="Macmillan Publishers" />
+							</a>
+						</li>
+						<li>
+							<a href="https://www.simonandschuster.com/" target="blank" rel="noopener">
+								<img src="/wp-content/uploads/2020/07/ss-logo-2018@2x.png" alt="Simon &amp; Schuster" />
+
+							</a>
+						</li>
+						<li>
+							<a href="https://us.macmillan.com/" target="blank" rel="noopener">
+								<img src="/wp-content/uploads/2020/07/macmillan-logotype@2x-400x67.png"
+									alt="Macmillan Publishers" />
 
 							</a>
 						</li>
@@ -134,14 +135,23 @@
 						<div class="half-content two-columns-text relative">
 							<div class="body-content padding-content">
 								<div class="entry-content relative">
-									<h2>Who We Are</h2>
-									<p>Meet our team of accomplished acquisitions editors and publishing executives from top-tier publishing houses, collectively dedicated to offering tailored services that empower you to accomplish your book-publishing aspirations. </p>
+									<h2>Professional Book Cover Designs To Increase The Sales Of Your Book!</h2>
 									<p>
-										Discover the expertise of our renowned editors and publishing experts who have a track record of bestsellers.
+										THE TIMES PUBLISHERS provides writers with unique book cover design services, bringing their story to life and creating an indelible impact on readers. Their skilled design staff collaborates directly with writers to comprehend their ideas and transform it into appealing and distinctive designs. 
 									</p>
+									<p>
+										With tremendous attention to detail and a genuine excitement for narrative, the designers are dedicated to delivering top-notch designs that set writers apart in a competitive industry. THE TIMES PUBLISHERS is ready to enhance writers' works and make their tales really distinctive, whether they choose to self-publish or pursue official publishing. 
+									</p>
+									<p>
+										Contact them right away for more information on their exceptional book cover design services.
+									</p>
+									<p><a target="_blank" href="//" style="text-decoration:none;border-bottom:0;"
+											rel="noopener">Choose Your Editor from Our Team</a></p>
 								</div>
 							</div>
 						</div>
+
+
 
 
 						<div class="half-content two-columns-image relative">
@@ -167,15 +177,14 @@
 						<div class="body-content services-list-item">
 							<a href="/ghostwriting-services/">
 
-								<span class="title"><strong>Professional<br />
-										Ghostwriting</strong></span>
+								<span class="title"><strong>Professional Ghostwriting</strong></span>
 								<span class="icon bg-blue-light">
 									<img class="lazy"
 										data-src="/wp-content/uploads/2020/07/Professional-Ghostwriting.svg"
 										alt="Professional Ghostwriting" />
 								</span>
 								<span class="excerpt">
-								Our group of writers and publishing experts, recognized by the New York Times, will work closely with you to design, craft, and create an impactful book that skillfully reflects your unique style and creative vision.
+									Our group of writers and publishing experts, recognized by the New York Times, will work closely with you to design, craft, and create an impactful book that skillfully reflects your unique style and creative vision.
 								</span>
 								<span class="action">
 									<span class="button">Learn More</span>
@@ -186,7 +195,8 @@
 						<div class="body-content services-list-item">
 							<a href="/book-editing-formatting-services/">
 
-								<span class="title"><strong>Book Editing</strong></span>
+								<span class="title"><strong>Book<br />
+										Editing</strong></span>
 								<span class="icon bg-blue-light">
 									<img class="lazy" data-src="/wp-content/uploads/2020/07/Book-Editing.svg"
 										alt="Book Editing" />
@@ -228,7 +238,7 @@
 				<div class="wrapper">
 
 					<div class="body-content padding-content padding-top0">
-						<h3 class="center"><strong>Our Comprehensive Book-Writing Services Include</strong></h3>
+						<h3 class="center"><strong>Our Book-Editing Options Include</strong></h3>
 					</div>
 
 					<div class="body-content services-boxes">
@@ -395,7 +405,7 @@
 							<div class="body-content services-box">
 								<div class="body-content align">
 									<div class="valign">
-										<a class="link" href="/about-us/">
+										<a class="link" href="/cultural-accuracy-reading-sensitivity-reading/">
 											<div class="icon">
 												<img class="lazy"
 													data-src="/wp-content/uploads/2020/08/Beta-Reader-Testing.png"
@@ -413,8 +423,7 @@
 				</div>
 			</div>
 
-
-			<div class="body-content padding-content ">
+			<div class="body-content padding-content">
 				<div class="wrapper large">
 
 					<div class="body-content">
@@ -451,7 +460,30 @@
 								<div class="badge rounded bg-body color-blue">
 									<div class="valign">
 										<p>#1<br />
-											<em>New York </em><em>Times </em>bestseller</p>
+											<em>NYT</em><em> </em>bestselling series, million+ copies sold</p>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="body-content book-cover">
+							<div class="cover">
+								<img class="lazy" data-src="/wp-content/uploads/2021/07/Dunder-Mifflin-1-800x1075.png"
+									alt="Dunder Mifflin 1" />
+								<div class="badge rounded bg-body color-blue">
+									<div class="valign">
+										<p><em>NYT</em> bestseller from producer&#8217;s of NBC&#8217;s <em>The
+												Office</em></p>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="body-content book-cover">
+							<div class="cover">
+								<img class="lazy" data-src="/wp-content/uploads/2022/03/good-money-800x1076.png"
+									alt="good money" />
+								<div class="badge rounded bg-body color-blue">
+									<div class="valign">
+										<p><em>WSJ</em> and <em>USA Today</em> bestseller</p>
 									</div>
 								</div>
 							</div>
@@ -461,15 +493,15 @@
 				</div>
 			</div>
 
-
 			<div class="body-content padding-content text-content-row center">
 				<div class="wrapper">
 					<div class="entry-content">
 						<p><a href="/clients/" class="button blue-light">See more of our bestselling books</a></p>
+
 					</div>
+
 				</div>
 			</div>
-
 
 			<div class="body-content padding-content testimonials-row padding-bottom0 ">
 				<div class="wrapper large">
@@ -551,12 +583,17 @@
 				</div>
 			</div>
 
+
 			<div class="body-content bg-grey">
 				<div class="wrapper">
 
 					<div class="body-content padding-content padding-bottom0 center">
 						<div class="in-middle">
 							<p class="title-def center">Why Should<br /> You Hire The Times Publishers?</p>
+							<div class="entry-content">
+								<hr />
+								<h5 style="text-align: center;"></h5>
+							</div>
 						</div>
 					</div>
 
@@ -570,19 +607,23 @@
 								<div class="body-content benefits-row-item">
 									<p class="title">Big-5 Editors</p>
 									<div class="text">
-										<p>Former Big-5 acquisitions editors are your ultimate guides to navigate the realm of publishing with unparalleled expertise.</p>
+										<p>Have your book reviewed by a former Big-5 acquisitions editor who has
+											acquired and edited hundreds of traditionally published books.</p>
 									</div>
 								</div>
 								<div class="body-content benefits-row-item">
-									<p class="title">Agent and Publisher Connections </p>
+									<p class="title">Personalized Service</p>
 									<div class="text">
-										<p>We collaborate closely with leading literary agents, major Big-5 publishers, numerous independent presses, and a select group of exceptional marketers, publicists, and industry experts.</p>
+										<p>Our services are tailored to each and every client. Tell us your
+											book-publishing goals, and we will show you exactly how to achieve them.</p>
 									</div>
 								</div>
 								<div class="body-content benefits-row-item">
-									<p class="title">Proven Results</p>
+									<p class="title">Proven Record of Success</p>
 									<div class="text">
-										<p>We've created a multitude of innovative ideas, pitches, and promotional tactics that successfully landed high-value book deals from publishers and achieved top rankings on the New York Times bestseller list.</p>
+										<p>Our <a href="/books/">track record</a> includes hundreds of traditionally
+											published books, numerous award-winners, and #1 <em>New York Times</em>
+											bestsellers.</p>
 									</div>
 								</div>
 							</div>
@@ -591,66 +632,103 @@
 
 				</div>
 			</div>
+
+
+			<div class="body-content padding-content two-columns-text-image-row padding-top0 padding-bottom0 ">
+				<div class="wrapper">
+
+					<div class="body-content two-columns-text-image flex-row">
+
+						<div class="half-content two-columns-text relative with-bg-image bg-cover lazy"
+							data-bg="url(/wp-content/uploads/2020/08/q.png)">
+							<div class="body-content padding-content">
+								<div class="entry-content relative">
+									<h3>You&#8217;ve written a draft&#8230; but you&#8217;re wondering if:</h3>
+									<ul>
+										<li>it’s well organized and structured effectively</li>
+										<li>your writing is clear and concise</li>
+										<li>the first line captures your reader’s attention</li>
+										<li>it ends with a powerful conclusion</li>
+										<li>content should be added or removed to improve its quality</li>
+										<li>your characters are well developed and consistent</li>
+										<li>it connects with your target audience</li>
+										<li>it has an urgent and engaging narrative arc</li>
+										<li>it&#8217;s timely and marketable</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+
+
+
+						<div class="half-content two-columns-text relative with-bg bg-body">
+							<div class="body-content padding-content">
+								<div class="entry-content relative">
+									<h2><span style="color: #ffffff;">We have the answers for you.</span></h2>
+									<p><span style="color: #fff;"><a href="/">Our team</a> of #1 <em>New York
+												Times</em>-bestselling book editors will identify your
+											manuscript&#8217;s weaknesses and advise you on how to elevate your work to
+											publishing industry standards.</span></p>
+								</div>
+							</div>
+						</div>
+
+
+					</div>
+
+				</div>
+			</div>
+
+
+			<div class="body-content padding-content two-columns-text-image-row padding-top0 padding-bottom0 ">
+				<div class="wrapper">
+
+					<div class="body-content two-columns-text-image flex-row">
+
+
+						<div class="half-content two-columns-image relative">
+							<div class="image">
+								<img class="lazy"
+									data-src="/wp-content/uploads/2020/08/glenn-carstens-peters-npx-x-wg-q-33-zq-unsplash@2x-1200x798.jpg"
+									alt="glenn-carstens-peters-npx-x-wg-q-33-zq-unsplash@2x" />
+							</div>
+						</div>
+
+
+						<div class="half-content two-columns-text relative">
+							<div class="body-content padding-content">
+								<div class="entry-content relative">
+									<h2>Editing and Ghostwriting</h2>
+									<h5>Do you require further assistance?</h5>
+									<h5>
+										If you're having trouble with your writing, we'd be pleased to provide our thorough ghostwriting or editing services to ensure the highest quality of your book.
+									</h5>
+								</div>
+							</div>
+						</div>
+
+
+					</div>
+
+				</div>
+			</div>
+
 
 			<div class="body-content padding-content text-content-row center">
 				<div class="wrapper">
 
 					<div class="in-middle">
 						<div class="entry-content">
-							<h2 style="text-align: center;">
-								Embarking on the journey of publishing a book is a significant endeavor, encompassing a multitude of choices and avenues that lead to achieving success.
-							</h2>
-							<hr />
-							<p style="text-align: center;">Lacking expertise in publishing can lead to wasted time, mistakes, and hindered book success. </p>
-							<p style="text-align: center;">Our assistance includes crafting a publishing strategy and expertly guiding you through the entire book publishing journey.</p>
+							<h4 style="text-align: center;">Our offices are in New York, Nashville, and Los Angeles.
+							</h4>
+							<h4 style="text-align: center;">Can’t get to us? <a
+									href="contact-ghostwriting-services/"><strong>We can bring our team to
+										you.</strong></a></h4>
 						</div>
 
 					</div>
 
-				</div>
-			</div>
 
-			<div class="body-content padding-content text-content-row bg-grey center">
-				<div class="wrapper">
-
-					<div class="in-middle">
-						<div class="entry-content">
-							<h2 style="text-align: center;">Our Book Publishing Consultation Includes</h2>
-							<hr />
-							<div class='content-column one_half'>
-								<ul style="list-style-type: circle;">
-									<li>Book-planning meetings might be held in person, on-site, or electronically.</li>
-									<li>Strategy for marketing and public relations.</li>
-									<li>Former Big-5 acquisitions editor edited and reviewed the piece.</li>
-									<li>Strategy for focusing on bestseller lists.</li>
-								</ul>
-							</div>
-							<div class='content-column one_half last_column'>
-								<ul style="list-style-type: circle;">
-									<li><a href="beta-reader-services-ghostwriting/">Testing with beta readers.</a></li>
-									<li><a href="/book-proposals/">Proposal</a> and pitch materials for a book.</li>
-									<li>Publishing strategy, navigation, and direct placements are all examples of direct placements.</li>
-									<li>Hands-on guidance and consulting throughout the whole procedure.</li>
-								</ul>
-							</div>
-							<div class='clear_column'></div>
-						</div>
-
-					</div>
-
-				</div>
-			</div>
-
-			<div class="body-content padding-content text-content-row center">
-				<div class="wrapper">
-
-					<div class="in-middle">
-						<div class="entry-content">
-							<h4 style="text-align: center;">Our locations include New York, Nashville, and Los Angeles.
-							<br />
-								Can't reach us? <a href="contact-ghostwriting-services/"><strong>We can send a crew to you.</strong></a></h4>
-						</div>
-					</div>
 				</div>
 			</div>
 
@@ -659,9 +737,12 @@
 
 					<div class="in-middle">
 						<div class="entry-content">
-							<h2 style="text-align: center;">From Concept to Final Print</h2>
+							<h2 style="text-align: center;">Unleash the Full Potential of Your Book</h2>
 							<p style="text-align: center;">
-								We bring extensive experience in guiding authors through the publishing journey, providing valuable insights and professional support. Our services cover everything from crafting your query letter and book proposal to establishing connections with top publishers, agents, marketers, and publicists. Count on us to be your committed partner, assisting you at every step of the publishing process.
+								Writing a book is one of life's most significant achievements. However, you, like any other author—yes, even bestselling authors—require a critical eye to analyze your book and verify it is engaging with your intended reader. 
+							</p>
+							<p style="text-align: center;">
+								We'll teach you how to improve your readers' experience and increase the appeal of your work to publishers. 
 							</p>
 							<div class="center as-p">
 								<p><button type="button" class="" data-bs-toggle="modal" data-bs-target="#exampleModal">
@@ -687,120 +768,42 @@
 							<div class="body-content faq-row">
 								<div class="body-content head">
 									<div class="valign">
-										<h2 class="title">Will You Help Me Publish My Book?</h2>
+										<h2 class="title">What's Included in the Consultation Process?</h2>
 									</div>
 									<div class="icon"></div>
 								</div>
 								<div class="body-content body">
 									<div class="entry-content">
-										<p>Absolutely. Whether you are interested in traditional publishing or
-											self-publishing, we can help you to get your book published. We offer
-											comprehensive support for POD publishing, eBook publishing, and traditional
-											publishing. For traditional publishing, we will help you to identify
-											literary agents and publishing houses and work with you to prepare
-											compelling promotional material to solicit potential buyers. For
-											self-publishing, whether hardcopy, digital or both, we will consult with you
-											on what options will work best for your book. We can prepare your book for
-											formatting and handle the entire self-publishing process for you.</p>
+										<p>Our consultants are available to discuss all aspects of your project with
+											you, including planning, preparation, concept generation, organization,
+											development, style, tone, writing, editing, formatting, publishing, and
+											more!</p>
+										<p>Our consulting process is flexible and customizable to your needs and
+											preferences. Consultation sessions generally take place by phone or video
+											call, but can also include in-person meetings if necessary or just written
+											feedback.</p>
+										<p>Once you’re happy with the content of your book, we can help you determine
+											which publishing options work best for you and make your published book a
+											reality!</p>
 									</div>
 								</div>
 							</div>
 							<div class="body-content faq-row">
 								<div class="body-content head">
 									<div class="valign">
-										<h2 class="title">What Is the Process for Publishing a Book?</h2>
+										<h2 class="title">Can I Work with the Same Consultant the Entire Time I’m
+											Writing My Book?</h2>
 									</div>
 									<div class="icon"></div>
 								</div>
 								<div class="body-content body">
 									<div class="entry-content">
-										<div id="ui-id-4"
-											class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active"
-											role="tabpanel" aria-labelledby="ui-id-3" aria-hidden="false">
-											<p>The process for publishing a book depends on how you’d like to publish
-												it.</p>
-											<p>Traditional publishing usually involves finding a literary agent to
-												represent you and then pitching your book to various publishing houses
-												until you find one that wants to purchase the rights to publish your
-												book. This process typically takes several months or even up to a year.
-												If you’re able to secure a deal with a traditional publisher, it can
-												take several more months to a year—or even longer—before your book
-												actually goes to print.</p>
-											<p>The self-publishing process is much more simple and expedient. Once
-												you’ve completed your manuscript, you need only to choose a
-												self-publishing service, format your book based on their specifications,
-												and upload it with a cover design.</p>
-											<p>Whether you choose to pursue traditional publishing or self-publishing,
-												we’ll consult with you and help you with every step along the way.</p>
-										</div>
-										<h3 id="ui-id-5"
-											class="ui-accordion-header ui-state-default ui-corner-all ui-accordion-icons"
-											tabindex="-1" role="tab" aria-controls="ui-id-6" aria-selected="false"
-											aria-expanded="false"></h3>
-									</div>
-								</div>
-							</div>
-							<div class="body-content faq-row">
-								<div class="body-content head">
-									<div class="valign">
-										<h2 class="title">What’s the Difference Between Self-Publishing and Traditional
-											Publishing?</h2>
-									</div>
-									<div class="icon"></div>
-								</div>
-								<div class="body-content body">
-									<div class="entry-content">
-										<p>A traditional publisher will purchase the rights to publish your book and is
-											then responsible for the final look of the book, the printing, and the
-											marketing. With self-publishing, you pay a publisher to publish and print
-											your book.</p>
-										<p>There are challenges and benefits associated with both traditional and
-											self-publishing. For authors who sign with a traditional publisher, there is
-											generally guaranteed payment and the sales and earning potential is
-											significantly higher than self-publishing. However, the rights to their book
-											are no longer their own and the publisher may demand various changes to the
-											manuscript that the author may not be completely comfortable with.
-											Self-publishing allows authors more freedom, but on the downside, there is
-											no assurance that their book will sell.</p>
-										<p>Traditional publishing also generally involves a large commitment of time and
-											effort (and thick skin!) to get a literary agent and publishing deal. In
-											return, authors gain increased visibility and the publisher covers the
-											distribution and marketing costs. Books printed through traditional
-											publishing are guaranteed to be professional quality.</p>
-										<p>Many first-time authors use self-publishing as a means to prove their
-											marketability to agents and publishers and secure a contract for their
-											subsequent works. More and more, self-publishing is becoming the most common
-											form of publication.</p>
-									</div>
-								</div>
-							</div>
-							<div class="body-content faq-row">
-								<div class="body-content head">
-									<div class="valign">
-										<h2 class="title">What’s the Process for Finding a Literary Agent?</h2>
-									</div>
-									<div class="icon"></div>
-								</div>
-								<div class="body-content body">
-									<div class="entry-content">
-										<div id="ui-id-8"
-											class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active"
-											role="tabpanel" aria-labelledby="ui-id-7" aria-hidden="false">
-											<p>Generally, authors secure a literary agent by submitting query letters
-												and samples of their work to a number of potential agents. Some writers’
-												circles say that you will need to query 80+ agents before you can
-												justify calling it quits. Each query letter should be personalized to
-												the recipient and address how you see your work complementing the roster
-												of authors that the literary agent currently represents. The process is
-												long and taxing, and there is no guarantee that you’ll find
-												representation. But, if you do, a literary agent will very likely be
-												able to find a publisher for you and act as a champion for you and your
-												book.</p>
-										</div>
-										<h3 id="ui-id-9"
-											class="ui-accordion-header ui-state-default ui-corner-all ui-accordion-icons"
-											tabindex="-1" role="tab" aria-controls="ui-id-10" aria-selected="false"
-											aria-expanded="false"></h3>
+										<p>Absolutely. In general, we strive for continuity when matching consultants
+											with clients. It is also possible to have the same consultant on multiple
+											projects, which helps to build positive working relationships and foster
+											consistency within your body of writing. Of course, if for any reason you
+											would prefer to work with a different consultant, we’re happy to assign a
+											new one.</p>
 									</div>
 								</div>
 							</div>
@@ -809,69 +812,40 @@
 							<div class="body-content faq-row">
 								<div class="body-content head">
 									<div class="valign">
-										<p class="title">Can I Send the Same Query Letter to More Than One Agent or
-											Publisher?</p>
+										<p class="title">Will a Reviewer Implement the Changes They’ve Suggested, or
+											Will I Have to Do It Myself?</p>
 									</div>
 									<div class="icon"></div>
 								</div>
 								<div class="body-content body">
 									<div class="entry-content">
-										<p>Significant sections of your query letter can be sent to more than one agent
-											or publisher; however, query letters are most effective when they are
-											customized to your recipient. Most successful query letters include a
-											section about how your manuscript relates to the distinct character or
-											priorities of the agent or publisher you’re contacting.</p>
+										<p>It all depends on what review and consultation services you’ve ordered. We
+											can provide you with comments and suggestions that you choose to implement
+											yourself, or we can make the edits to the content for you. Our goal is to
+											support you to produce the best possible content through customer service
+											that exceeds your expectations.</p>
 									</div>
 								</div>
 							</div>
 							<div class="body-content faq-row">
 								<div class="body-content head">
 									<div class="valign">
-										<p class="title">Do You Guarantee That My Book Will Be Published?</p>
+										<p class="title">Can You Help Me with the Publishing and Marketing for My Book?
+										</p>
 									</div>
 									<div class="icon"></div>
 								</div>
 								<div class="body-content body">
 									<div class="entry-content">
-										<p>If your goal is to hold a copy of your book in your hand and have it
-											available for sale on Amazon and Kindle (among other eBook platforms), then
-											yes, we can guarantee that your book will be published. If your heart is set
-											on traditional publishing, we cannot guarantee that you will receive a book
-											deal or secure a literary agent to represent you. We will, however, do
-											everything we can to support you in achieving your goal!</p>
-									</div>
-								</div>
-							</div>
-							<div class="body-content faq-row">
-								<div class="body-content head">
-									<div class="valign">
-										<p class="title">I’ve Written a Book Before, But It Wasn’t Successful. What Can
-											You Do to Help Me Succeed?</p>
-									</div>
-									<div class="icon"></div>
-								</div>
-								<div class="body-content body">
-									<div class="entry-content">
-										<p>Writing is just like any other skill or art form; practice, feedback, and
-											refinement are the means to improving your abilities. Every writer needs an
-											editor, and even the most brilliant ideas can benefit from a collaborator or
-											two. We can work with you on material that you’ve already created to give
-											detailed, insightful feedback and suggestions on how to take your craft to
-											the next level. We can also build off of the ideas that you’ve already
-											generated and ghostwrite new material for you.</p>
-										<p>We know that the publishing industry can be daunting, especially for first
-											time authors, so we offer consultation and comprehensive support for both
-											traditional and self-publishing outlets. Once the writing and editing
-											process is complete, we’ll help you make decisions regarding traditional and
-											self-publishing options. We’ll craft a query letter or book proposal that
-											you can use to promote your book to agents and publishing houses, and we can
-											put you in contact with marketing services to get the word out about your
-											book. We’ve assisted many first-time and experienced authors with
-											self-publishing their book and securing lucrative book deals through
-											traditional publishing avenues.</p>
-										<p>Our services are perfectly suited for writers who are looking to improve
-											their work. Our professional staff is ready to give you the tools,
-											motivation, and reflection that you need to succeed.</p>
+										<p>We know that the publishing industry can be daunting, especially for
+											first-time authors, so we offer consultation and comprehensive support for
+											traditional, hybrid, and self-publishing outlets. Most of our all-inclusive
+											ghostwriting packages include an original and customized query letter or
+											book proposal free of charge. This invaluable marketing tool will be used to
+											promote your book to literary agents and publishers. Not sure how to find a
+											reputable literary agent? We’ve got you covered—we’ll provide you with a
+											list of genre-appropriate agents to whom you can send your query letter or
+											proposal!</p>
 									</div>
 								</div>
 							</div>
@@ -880,6 +854,50 @@
 
 				</div>
 			</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 		</div>
 

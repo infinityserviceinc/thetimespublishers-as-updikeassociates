@@ -496,72 +496,80 @@
 
             <div class="body-content padding-content testimonials-row padding-bottom0 ">
                 <div class="wrapper large">
-                    <div class="body-content">
-                        <div class="body-content testimonial third">
-                            <div class="body-content testimonial-align">
-                                <div class="body-content testimonial-text">
-                                    <p>&#8220;The Times Publishers and their team provided excellent editorial services.
-                                        our firm offers a diverse pool of editors to choose from, which enabled me to
-                                        hone the type of service I was looking for. Each editor was concise and
-                                        insightful, giving me constructive notes that really allowed me to take my work
-                                        to the next level. I felt that they were in for the long haul&#8230;&#8221;</p>
-                                </div>
-                                <div class="body-content testimonial-meta">
-
-                                    <div class="body-content testimonial-name-tagline">
-                                        <div class="valign">
-                                            <p><strong>Norman Ollestad</strong><br />
-                                                <em>New York Times</em>-Bestselling Author of Over 100,000 Copies
-                                                Sold
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
+                   
+                <div class="body-content">
+                    <div class="body-content testimonial third">
+                        <div class="body-content testimonial-align">
+                            <div class="body-content testimonial-text">
+                                <p>&ldquo;We have enjoyed a delightful collaboration with The Times Publishers and their team
+                                    comprising skilled writers and editors. Our partnership spans more than twelve
+                                    manuscripts since 2015, encompassing the initial book as well. I wholeheartedly
+                                    endorse them, given their promptness, unwavering pursuit of quality, and dedication
+                                    to ensuring client satisfaction. Their unique capability to engage with multiple
+                                    talented writers simultaneously has been particularly advantageous to us.
+                                    &rdquo;</p>
                             </div>
-                        </div>
-                        <div class="body-content testimonial third">
-                            <div class="body-content testimonial-align">
-                                <div class="body-content testimonial-text">
-                                    <p>“Working with The Times Publishers is a great experience. Having worked together on
-                                        multiple books over the years, they’ve proven themselves to be reliable,
-                                        responsive, and talented. Their team of bestselling authors is a great resource
-                                        for us and I definitely recommend their services to any author or publisher
-                                        looking for top-quality writing services with a well-managed process.”</p>
-                                </div>
-                                <div class="body-content testimonial-meta">
-
-                                    <div class="body-content testimonial-name-tagline">
-                                        <div class="valign">
-                                            <p><strong>Celeste Fine </strong></p>
-                                            <p>#1-ranked agent on Publishers
-                                                Marketplace</a></p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="body-content testimonial third">
-                            <div class="body-content testimonial-align">
-                                <div class="body-content testimonial-text">
-                                    <p>“Thanks to the tireless support of The Times Publishers, especially Eric Spitznagel,
-                                        who helped us piece together this jigsaw puzzle of interviews. Your prose is as
-                                        beautiful as your soul.”</p>
-                                </div>
-                                <div class="body-content testimonial-meta">
-
-                                    <div class="body-content testimonial-name-tagline">
-                                        <div class="valign">
-                                            <p><strong>Brian Baumgartner and Ben Silverman</strong></p>
-                                            <p>Actor and Producer of NBC&#8217;s <em>The Office, </em>authors of
-                                                <em>NYT</em> bestseller, <em>Welcome to Dunder Mifflin</em>
-                                            </p>
-                                        </div>
+                            <div class="body-content testimonial-meta">
+                                <div class="body-content testimonial-image bg-cover rounded lazy"
+                                    style="background-image: url(images/review_profile_img_01.png);"></div>
+                                <div class="body-content testimonial-name-tagline">
+                                    <div class="valign">
+                                        <p><strong>Antonio H. Westendorf</strong></p>
+                                        <!-- <p>#1 <em>New York Times-</em>bestselling
+                                            author, Over 1 million copies sold!</p> -->
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-
+                    <div class="body-content testimonial third">
+                        <div class="body-content testimonial-align">
+                            <div class="body-content testimonial-text">
+                                <p>&ldquo;Collaborating with The Times Publishers is a highly rewarding journey. With a
+                                    history of successful collaborations on various book projects, they consistently
+                                    demonstrate their reliability, quick responsiveness, and impressive skills. Their
+                                    team of accomplished authors is a valuable asset, making them a top choice for
+                                    authors and publishers seeking exceptional writing services and a smoothly organized
+                                    process.
+                                    &rdquo;</p>
+                            </div>
+                            <div class="body-content testimonial-meta">
+                                <div class="body-content testimonial-image bg-cover rounded lazy"
+                                    style="background-image: url(images/review_profile_img_02.png);"></div>
+                                <div class="body-content testimonial-name-tagline">
+                                    <div class="valign">
+                                        <p><strong>Joyce Fulton</strong></p>
+                                        <!-- <p>#1-ranked agent on Publishers Marketplace</p> -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="body-content testimonial third">
+                        <div class="body-content testimonial-align">
+                            <div class="body-content testimonial-text">
+                                <p>&ldquo;Grateful for the unwavering assistance from The Times Publishers, particularly
+                                    Eric Spitznagel, who played a crucial role in assembling the intricate mosaic of
+                                    interviews. Your eloquence mirrors the beauty within your spirit.
+                                    &rdquo;</p>
+                            </div>
+                            <div class="body-content testimonial-meta">
+                                <div class="body-content testimonial-image bg-cover rounded lazy"
+                                    style="background-image: url(images/review_profile_img_03.png);"></div>
+                                <div class="body-content testimonial-name-tagline">
+                                    <div class="valign">
+                                        <p><strong>Raymond Brown</strong></p>
+                                        <!-- <p>Actor on NBC&rsquo;s <em>The Office</em> and author of <i>New York Times</i>
+                                            bestseller
+                                        </p> -->
+                                        <!-- <p>&nbsp;</p>
+                                        <p>&nbsp;</p> -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
 
                 </div>
@@ -666,9 +674,9 @@
                             <p class="title-def center">Our Book Editing Methodology</p>
                             <div class="entry-content">
                                 <hr />
-                                <p style="text-align: center;">Our typical book-editing process is outlined below.
-                                    However, because each author's situation is unique, we will tailor our approach to
-                                    meet your specific needs and publishing objectives.</p>
+                                <p style="text-align: center;">
+                                    We have a standard book-editing process which we'll adapt to your individual requirements and publishing goals, as we recognize that every author's situation is distinct.
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -684,8 +692,9 @@
                                 </div>
                                 <div class="body-content text">
                                     <div class="entry-content">
-                                        <p>Mark Weinstein, our Editorial Director and former Big-5 acquisitions editor,
-                                            can help you with your book and publishing goals.</p>
+                                        <p>
+                                            Benefit from the expertise of Mark Weinstein, our Editorial Director and former acquisitions editor at a major publishing firm. Receive valuable guidance and support for your book and publishing aspirations.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -700,10 +709,9 @@
                                 </div>
                                 <div class="body-content text">
                                     <div class="entry-content">
-                                        <p>Our <a href="//" style="text-decoration:none;border-bottom:0;">editorial
-                                                team</a> will conduct a cursory review of your
-                                            manuscript (at no cost), provide general editorial feedback, and recommend a
-                                            service to help you reach your publishing goals.</p>
+                                        <p>
+                                            Our dedicated editorial team offers a complimentary initial assessment of your manuscript, providing overall editorial insights and suggesting appropriate services to support your publishing aspirations.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -718,8 +726,7 @@
                                 </div>
                                 <div class="body-content text">
                                     <div class="entry-content">
-                                        <p>To provide budget flexibility, we will offer multiple service options and
-                                            payment plans.</p>
+                                        <p>For enhanced budget flexibility, we'll present a range of service choices and payment plans to choose from.</p>
                                     </div>
                                 </div>
                             </div>
@@ -734,9 +741,7 @@
                                 </div>
                                 <div class="body-content text">
                                     <div class="entry-content">
-                                        <p>Your editor will go over the material, identify its strengths and weaknesses,
-                                            and make detailed and actionable editorial suggestions to improve the
-                                            quality and consistency.</p>
+                                        <p>Our editor will carefully review your content, analyzing its strengths and weaknesses. They will provide specific and practical editorial suggestions to enhance quality and ensure consistency.</p>
                                     </div>
                                 </div>
                             </div>
@@ -751,8 +756,7 @@
                                 </div>
                                 <div class="body-content text">
                                     <div class="entry-content">
-                                        <p>The editor will go over your text line by line to correct mistakes, improve
-                                            the mechanics of your writing, and improve the standard and efficiency.</p>
+                                        <p>Our editor meticulously reviews your text, addressing errors, enhancing writing mechanics, and elevating overall quality and effectiveness.</p>
                                     </div>
                                 </div>
                             </div>
@@ -767,10 +771,9 @@
                                 </div>
                                 <div class="body-content text">
                                     <div class="entry-content">
-                                        <p>The editor would then send you an editorial letter with evaluative feedback
-                                            and supplemental suggestions for improving your manuscript and meeting your
-                                            publication goals. On a Zoom or phone call, the editor will then discuss
-                                            their analysis with you and answer any questions you may have.</p>
+                                        <p>
+                                            After reviewing your manuscript, the editor will provide you with an editorial letter containing constructive feedback and additional recommendations to enhance your work and achieve your publishing objectives. Subsequently, during a Zoom or phone call, the editor will thoroughly explain their assessment, addressing your inquiries and concerns.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -785,103 +788,28 @@
                                 </div>
                                 <div class="body-content text">
                                     <div class="entry-content">
-                                        <p> We'll assist you in determining the best publication path for you and
-                                            guiding you through the process, which may include contacting agents or
-                                            publishers or trying to connect you with an adequate non-traditional
-                                            publishing solution.</p>
+                                        <p> 
+                                            We'll assist you in determining the best publication path for you and guiding you through the process, which may include contacting agents or publishers or trying to connect you with an adequate non-traditional publishing solution.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-
                 </div>
             </div>
            
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            <div class="body-content padding-content bg-body color-white row-overlay-ka 
-											 
-											 center											">
+            <div class="body-content padding-content bg-body color-white row-overlay-ka center">
                 <div class="wrapper relative">
 
 
                     <div class="in-middle">
                         <div class="entry-content">
-                            <h2 style="text-align: center;">Maximize the Power of Your Writing</h2>
-                            <p style="text-align: center;">It’s time to take your book to the next level.</p>
-                            <p style="text-align: center;"><a href="/contact-ghostwriting-services/">Call us</a> to
-                                discover how our team of industry experts can help make your publishing dreams a
-                                reality.</p>
+                            <h2 style="text-align: center;">Enhance Your Writing's Potential</h2>
+                            <p style="text-align: center;">Elevate your book's quality to new heights. </p>
+                            <p style="text-align: center;"><a href="/contact-ghostwriting-services/">Contact us</a> to explore how our team of experienced professionals can turn your publishing aspirations into a tangible achievement.</p>
                             <div class="center as-p">
                                 <p><a href="contact-ghostwriting-services/" class="button blue-light">Schedule a
                                         Consult</a></p>

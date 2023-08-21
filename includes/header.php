@@ -43,48 +43,36 @@
 								<li id="menu-item-17928"
 									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children level-1 menu-item-17928">
 									<a href="ghostwriting-services/">Professional Ghostwriting</a>
-									<ul class="sub-menu">
-										<li id="menu-item-17930"
-											class="menu-item menu-item-type-post_type menu-item-object-page level-2 menu-item-17930">
-											<a href="business-book-ghostwriting-services/">Ghost Writing Services</a>
-										</li>
-										<li id="menu-item-17932"
-											class="menu-item menu-item-type-post_type menu-item-object-page level-2 menu-item-17932">
-											<a href="memoir-and-autobiography-ghostwriting-services/">Biography Writing
-												Services</a></li>
-
-									</ul>
+									
 								</li>
+
 								<li id="menu-item-17937"
 									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children level-1 menu-item-17937">
 									<a href="book-editing-formatting-services/">Book Editing</a>
-									<ul class="sub-menu">
-										<li id="menu-item-17938"
-											class="menu-item menu-item-type-post_type menu-item-object-page level-2 menu-item-17938">
-											<a href="book-editing-formatting-services/">Book Editing Services</a></li>
-										<li id="menu-item-17939"
-											class="menu-item menu-item-type-post_type menu-item-object-page level-2 menu-item-17939">
-											<a href="book-review-consultation-services/">Book Cover Design Services</a>
-										</li>
-
-									</ul>
+									
 								</li>
+
 								<li id="menu-item-17943"
 									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children level-1 menu-item-17943">
 									<a href="publishing-consultancy/">Book Publishing & Marketing</a>
-									<ul class="sub-menu">
-										<li id="menu-item-17944"
-											class="menu-item menu-item-type-post_type menu-item-object-page level-2 menu-item-17944">
-											<a href="publishing-consultancy/">Book Publishing Services</a></li>
-										<li id="menu-item-17944"
-											class="menu-item menu-item-type-post_type menu-item-object-page level-2 menu-item-17944">
-											<a href="book-proposals/">Book Marketing Services</a></li>
-										<li id="menu-item-17944"
-											class="menu-item menu-item-type-post_type menu-item-object-page level-2 menu-item-17944">
-											<a href="query-letters/">Book Trailer Services</a></li>
-									</ul>
-
-
+									
+								</li>
+								<li id="menu-item-17952"
+									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children level-1 menu-item-17943">
+									<a href="book-marketing-services/">Book Marketing Services</a>
+								</li>
+								<li id="menu-item-17951"
+									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children level-1 menu-item-17943">
+									<a href="book-cover-design-services/">Book Cover Design Services</a>
+								</li>
+								<li id="menu-item-17959"
+									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children level-1 menu-item-17943">
+									<a href="memoir-and-autobiography-ghostwriting-services/">Biography Writing	Services</a>
+								</li>
+								<li id="menu-item-17999"
+									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children level-1 menu-item-17943">
+									<a href="book-trailer-services/">Book Trailer Services</a>
+								</li>
 
 							</ul>
 						</li>
