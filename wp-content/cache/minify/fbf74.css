@@ -777,17 +777,21 @@ a.button.bordered.blue-light:hover, .button.bordered.blue-light a:hover, button.
 .main-menu.v2 .mega-menu .level-1 a {color: #fff;}
 .main-menu.v2 .mega-menu .level-1 a:hover {color: #fff;}
 
+.main-menu .mega-menu > .sub-menu.header_sub_menu {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	border-radius: 5px;
+}
+
 .main-menu .mega-menu > .sub-menu {
 	font-size: 0; 
 	width: 270px; 
 	/* width: 660px;  */
 	padding: 20px 20px 0 20px;
 	text-align: center;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	justify-content: center;
-	border-radius: 5px;
+
 }
 .main-menu .mega-menu > .sub-menu .level-1 {display: inline-block; vertical-align: top; font-size: 1rem; margin: 0 0 20px 0; padding: 0 0 20px 0;
 	-webkit-box-sizing: border-box;
