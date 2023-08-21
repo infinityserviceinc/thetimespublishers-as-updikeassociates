@@ -241,7 +241,7 @@
                     <div class="body-content testimonial third">
                         <div class="body-content testimonial-align">
                             <div class="body-content testimonial-text">
-                                <p>&ldquo;We have enjoyed a delightful collaboration with Updike and their team
+                                <p>&ldquo;We have enjoyed a delightful collaboration with The Times Publishers and their team
                                     comprising skilled writers and editors. Our partnership spans more than twelve
                                     manuscripts since 2015, encompassing the initial book as well. I wholeheartedly
                                     endorse them, given their promptness, unwavering pursuit of quality, and dedication
@@ -251,10 +251,10 @@
                             </div>
                             <div class="body-content testimonial-meta">
                                 <div class="body-content testimonial-image bg-cover rounded lazy"
-                                    style="background-image: url(images/review_profile_img_01.jpg);"></div>
+                                    style="background-image: url(images/review_profile_img_01.png);"></div>
                                 <div class="body-content testimonial-name-tagline">
                                     <div class="valign">
-                                        <p><strong>Scott Cawthon</strong></p>
+                                        <p><strong>Antonio H. Westendorf</strong></p>
                                         <p>#1 <em>New York Times-</em>bestselling
                                             author, Over 1 million copies sold!</p>
                                     </div>
@@ -275,10 +275,10 @@
                             </div>
                             <div class="body-content testimonial-meta">
                                 <div class="body-content testimonial-image bg-cover rounded lazy"
-                                    style="background-image: url(images/review-lady.png);"></div>
+                                    style="background-image: url(images/review_profile_img_02.png);"></div>
                                 <div class="body-content testimonial-name-tagline">
                                     <div class="valign">
-                                        <p><strong>Celeste Fine,</strong></p>
+                                        <p><strong>Joyce Fulton</strong></p>
                                         <p>#1-ranked agent on Publishers Marketplace</p>
                                     </div>
                                 </div>
@@ -295,10 +295,10 @@
                             </div>
                             <div class="body-content testimonial-meta">
                                 <div class="body-content testimonial-image bg-cover rounded lazy"
-                                    style="background-image: url(images/photo-gallery-img-02-circle.jpg);"></div>
+                                    style="background-image: url(images/review_profile_img_03.png);"></div>
                                 <div class="body-content testimonial-name-tagline">
                                     <div class="valign">
-                                        <p><strong>Brian Baumgartner</strong></p>
+                                        <p><strong>Raymond Brown</strong></p>
                                         <p>Actor on NBC&rsquo;s <em>The Office</em> and author of <i>New York Times</i>
                                             bestseller
                                         </p>

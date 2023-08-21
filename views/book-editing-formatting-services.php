@@ -494,12 +494,8 @@
                 </div>
             </div>
 
-            <div class="body-content padding-content testimonials-row 
-											 padding-bottom0 
-											">
+            <div class="body-content padding-content testimonials-row padding-bottom0 ">
                 <div class="wrapper large">
-
-
                     <div class="body-content">
                         <div class="body-content testimonial third">
                             <div class="body-content testimonial-align">
@@ -594,18 +590,13 @@
                                 <div class="body-content benefits-row-item">
                                     <p class="title">Social Media</p>
                                     <div class="text">
-                                        <p>Ready to publish your first book? Hold on just a second! Hire our team and
-                                            get amazing book marketing services at reasonable rates. Our book promotion
-                                            company offers premium social media marketing services to ensure your work
-                                            reaches your target audience.</p>
+                                        <p>Prepare to launch your debut book? Pause for a moment! Engage our team for exceptional book marketing solutions at affordable prices. Our book promotion experts provide top-tier social media marketing services to guarantee your masterpiece reaches its intended readership.</p>
                                     </div>
                                 </div>
                                 <div class="body-content benefits-row-item">
                                     <p class="title">Book Cover Design</p>
                                     <div class="text">
-                                        <p>Our team caters to designing the best quality book cover designs to meet your
-                                            needs. We use exotic texts, images, colors, etc., to attract maximum readers
-                                            worldwide.</p>
+                                        <p>Our expert team specializes in crafting high-quality book cover designs tailored to your requirements. We utilize unique typography, imagery, vibrant colors, and more to captivate a global audience of readers.</p>
                                     </div>
                                 </div>
                                 <!-- <div class="body-content benefits-row-item">
@@ -620,11 +611,8 @@
                                 <div class="body-content benefits-row-item">
                                     <p class="title">Content Editing Marketing</p>
                                     <div class="text">
-                                        <p>Writing blogs and articles is a great way to promote your book on different
-                                            websites and platforms.Book Writing LLC can help you cover this aspect of
-                                            book marketing too! Contact us today and we'll discuss your project
-                                            immediately.
-
+                                        <p>
+                                            Writing blogs and articles is a great way to promote your book on different websites and platforms. Book Writing LLC can help you cover this aspect of book marketing too! Contact us today and we'll discuss your project immediately.
                                         </p>
                                     </div>
                                 </div>
