@@ -10,11 +10,7 @@
     <meta name="keywords" content=""><?php include_once($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php'); ?>
 
     <!-- Event snippet for Website lead conversion page -->
-    <script>
-        gtag('event', 'conversion', {
-            'send_to': 'AW-10998516377/55o0CNivvOMDEJmVwPwo'
-        });
-    </script>
+
 
 
 </head>
@@ -29,7 +25,6 @@
     <?php include_once($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'); ?>
     </head><!-- Content -->
     <div id="content-wrapper">
-        <!-- <script>gtag('event','conversion',{'send_to':'AW-1052932118/-5XJCLacsgIQlvCJ9gM'})</script> -->
         <div class="">
             <div class="container" id="error-404">
                 <div class="row justify-content-center d-flex pt-8 pb-5">
